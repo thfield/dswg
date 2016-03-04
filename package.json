@@ -1,0 +1,30 @@
+{
+  "name": "dswg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-cdnizer": "^1.1.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-if": "^2.0.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.0.7",
+    "jshint": "^2.9.1"
+  },
+  "dependencies": {
+    "d3": "^3.5.16",
+    "lodash": "^4.6.1",
+    "turf": "^2.0.2"
+  }
+}
