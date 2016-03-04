@@ -86,7 +86,7 @@ let defaultData = {};
   // download data and draw map
   d3_queue.queue()
     .defer(d3.json, 'data/parcels.topo.json')
-    .defer(d3.json, 'data/apiresult.json')
+    .defer(d3.json, 'data/apiresult.json') // cached version of : https://data.sfgov.org/resource/j2j3-acqj.json?$select=parcel_s,building_name,_2014_energy_star_score,_2014_total_ghg_emissions_metric_tons_co2e
     .await(renderFirst)
 
   function renderFirst(error, geo, data) {
