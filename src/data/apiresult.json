@@ -1,3381 +1,4948 @@
 [ {
+  "building_name" : "3838 CALIFORNIA ST",
   "parcel_s" : "1015/054"
 }
 , {
+  "building_name" : "601 MCALLISTER ST",
   "parcel_s" : "0785/028"
 }
 , {
-  "parcel_s" : "5211/031"
+  "building_name" : "3450 3RD ST #1 D",
+  "parcel_s" : "5211/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "8.9"
 }
 , {
+  "building_name" : "499 JACKSON ST",
   "parcel_s" : "0196/016"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "0211/002"
+  "building_name" : "925 STOCKTON ST",
+  "parcel_s" : "0211/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "17.5"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "3732/045"
+  "building_name" : "BOYD 944 FOLSOM BUILDING",
+  "parcel_s" : "3732/045",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "17.9"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "3511/012"
+  "building_name" : "1500 Howard Street",
+  "parcel_s" : "3511/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "44.5"
 }
 , {
+  "building_name" : "644 BRANNAN ST",
   "parcel_s" : "3778/004"
 }
 , {
+  "building_name" : "Hotel Rex",
   "parcel_s" : "0284/010"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "3763/007"
+  "building_name" : "490 2ND ST",
+  "parcel_s" : "3763/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "98.7"
 }
 , {
   "_2014_energy_star_score" : "15",
-  "parcel_s" : "0111/001"
+  "building_name" : "One Union",
+  "parcel_s" : "0111/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "190.7"
 }
 , {
+  "building_name" : "200-202 Potrero Ave",
   "parcel_s" : "3931A/001"
 }
 , {
-  "parcel_s" : "5375/059"
+  "building_name" : "701 BAY SHORE BLVD",
+  "parcel_s" : "5375/059",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "34.5"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "0288/010"
+  "building_name" : "222 Kearny Street",
+  "parcel_s" : "0288/010",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "320.8"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "3780/056A"
+  "building_name" : "360 LANGTON ST",
+  "parcel_s" : "3780/056A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "60.7"
 }
 , {
+  "building_name" : "101 BARNEVELD AVE",
   "parcel_s" : "5559/002"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "3707/002A"
+  "building_name" : "609 MARKET ST",
+  "parcel_s" : "3707/002A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21"
 }
 , {
   "_2014_energy_star_score" : "38",
-  "parcel_s" : "0306/199"
+  "building_name" : "441 MASON ST",
+  "parcel_s" : "0306/199",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "442.9"
 }
 , {
+  "building_name" : "2530 18TH ST",
   "parcel_s" : "4014/002A"
 }
 , {
+  "building_name" : "3450 3RD ST #2 B",
   "parcel_s" : "5211/033"
 }
 , {
-  "parcel_s" : "3754/049"
+  "building_name" : "Oscar Printing",
+  "parcel_s" : "3754/049",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "27.8"
 }
 , {
+  "building_name" : "529 COMMERCIAL ST",
   "parcel_s" : "0228/018"
 }
 , {
+  "building_name" : "1256 MARKET ST",
   "parcel_s" : "0355/008"
 }
 , {
   "_2014_energy_star_score" : "26",
-  "parcel_s" : "3786/020"
+  "building_name" : "17 BLUXOME ST",
+  "parcel_s" : "3786/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "57.3"
 }
 , {
-  "parcel_s" : "5235/015"
+  "building_name" : "Bayview Plaza - Buildings B&C",
+  "parcel_s" : "5235/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "270"
 }
 , {
+  "building_name" : "Montgomery Campus",
   "parcel_s" : "3820/003"
 }
 , {
-  "parcel_s" : "4020/002"
+  "building_name" : "650 Alabama LLC",
+  "parcel_s" : "4020/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "350"
 }
 , {
+  "building_name" : "3320 18th Street",
   "parcel_s" : "3575/101"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "0311/015"
+  "building_name" : "One Post Street",
+  "parcel_s" : "0311/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1713.5"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0335/027"
+  "building_name" : "Cova Hotel",
+  "parcel_s" : "0335/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "259.3"
 }
 , {
   "_2014_energy_star_score" : "34",
-  "parcel_s" : "0509/009A"
+  "building_name" : "Chelsea Motor Inn",
+  "parcel_s" : "0509/009A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "118.9"
 }
 , {
+  "building_name" : "Post Montgomery Center Tower",
   "parcel_s" : "0292/001A"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "3572/023"
+  "building_name" : "2030 HARRISON ST",
+  "parcel_s" : "3572/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "61"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "3705/008"
+  "building_name" : "816 MISSION ST",
+  "parcel_s" : "3705/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "102.7"
 }
 , {
   "_2014_energy_star_score" : "19",
-  "parcel_s" : "1650/036"
+  "building_name" : "735 7th Ave",
+  "parcel_s" : "1650/036",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "663.4"
 }
 , {
+  "building_name" : "1140 FOLSOM ST",
   "parcel_s" : "3730/015"
 }
 , {
+  "building_name" : "350 TREAT AVE",
   "parcel_s" : "3572/002"
 }
 , {
+  "building_name" : "138 6TH ST",
   "parcel_s" : "3726/006"
 }
 , {
   "_2014_energy_star_score" : "47",
-  "parcel_s" : "0175/033"
+  "building_name" : "850 MONTGOMERY ST",
+  "parcel_s" : "0175/033",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "119.8"
 }
 , {
+  "building_name" : "984 FOLSOM ST",
   "parcel_s" : "3732/029"
 }
 , {
+  "building_name" : "1600 BRYANT ST",
   "parcel_s" : "3928/001"
 }
 , {
+  "building_name" : "The Stanford Court",
   "parcel_s" : "0255/001"
 }
 , {
+  "building_name" : "667 FOLSOM ST",
   "parcel_s" : "3750/081"
 }
 , {
+  "building_name" : "45 Pier - Shed B",
   "parcel_s" : "9900/045"
 }
 , {
+  "building_name" : "SF Police Credit Union",
   "parcel_s" : "1724/038"
 }
 , {
+  "building_name" : "2031 IRVING ST",
   "parcel_s" : "1776/011B"
 }
 , {
   "_2014_energy_star_score" : "76",
-  "parcel_s" : "0236/006"
+  "building_name" : "222 FRONT ST",
+  "parcel_s" : "0236/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "94.7"
 }
 , {
+  "building_name" : "854 FOLSOM ST",
   "parcel_s" : "3733/020A"
 }
 , {
+  "building_name" : "121 CAPP ST",
   "parcel_s" : "3570/047"
 }
 , {
+  "building_name" : "355 SUTTER ST",
   "parcel_s" : "0294/017"
 }
 , {
+  "building_name" : "930 MONTGOMERY ST",
   "parcel_s" : "0164/012"
 }
 , {
+  "building_name" : "1260 EGBERT AVE",
   "parcel_s" : "4909/032"
 }
 , {
+  "building_name" : "365 MAIN ST",
   "parcel_s" : "3745/008"
 }
 , {
-  "parcel_s" : "6084/018A"
+  "building_name" : "25 RUSSIA AVE",
+  "parcel_s" : "6084/018A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33.1"
 }
 , {
+  "building_name" : "2343 Fillmore Street",
   "parcel_s" : "0611/001A"
 }
 , {
-  "parcel_s" : "0296/012B"
+  "building_name" : "595 Sutter Street",
+  "parcel_s" : "0296/012B",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "55.5"
 }
 , {
+  "building_name" : "938 HOWARD ST",
   "parcel_s" : "3725/015"
 }
 , {
-  "parcel_s" : "3794/023"
+  "building_name" : "Byer California - 128 King St.",
+  "parcel_s" : "3794/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "742.4"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "0310/008"
+  "building_name" : "28 Geary",
+  "parcel_s" : "0310/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "126.7"
 }
 , {
   "_2014_energy_star_score" : "4",
-  "parcel_s" : "0192/041"
+  "building_name" : "Chinese Hospital",
+  "parcel_s" : "0192/041",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1167.7"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "0208/024"
+  "building_name" : "Hilton San Francisco - Financial District",
+  "parcel_s" : "0208/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2267.1"
 }
 , {
   "_2014_energy_star_score" : "45",
-  "parcel_s" : "3509/015C"
+  "building_name" : "1375 Mission",
+  "parcel_s" : "3509/015C",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "101"
 }
 , {
-  "parcel_s" : "0316/001A"
+  "building_name" : "American Conservatory Theater",
+  "parcel_s" : "0316/001A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "225.8"
 }
 , {
+  "building_name" : "126 Post Street Building",
   "parcel_s" : "0293/005"
 }
 , {
-  "parcel_s" : "0671/002"
+  "building_name" : "1301 Van Ness",
+  "parcel_s" : "0671/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.8"
 }
 , {
   "_2014_energy_star_score" : "38",
-  "parcel_s" : "3515/040"
+  "building_name" : "1690 FOLSOM ST",
+  "parcel_s" : "3515/040",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "166.1"
 }
 , {
-  "parcel_s" : "4083/001A"
+  "building_name" : "2345 Harrison",
+  "parcel_s" : "4083/001A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "5.7"
 }
 , {
+  "building_name" : "1240 EGBERT AVE",
   "parcel_s" : "4909/031"
 }
 , {
   "_2014_energy_star_score" : "15",
-  "parcel_s" : "1844/001"
+  "building_name" : "I Kuan Tao Foundation of America",
+  "parcel_s" : "1844/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.4"
 }
 , {
+  "building_name" : "990 COLUMBUS AVE",
   "parcel_s" : "0065/048"
 }
 , {
   "_2014_energy_star_score" : "38",
-  "parcel_s" : "1084/005"
+  "building_name" : "Steve Krieger - 3535 Geary",
+  "parcel_s" : "1084/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "78.8"
 }
 , {
   "_2014_energy_star_score" : "18",
-  "parcel_s" : "3206/003"
+  "building_name" : "4610 MISSION ST",
+  "parcel_s" : "3206/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "150.4"
 }
 , {
+  "building_name" : "3450 3RD ST #2 A",
   "parcel_s" : "5211/032"
 }
 , {
+  "building_name" : "2205 MISSION ST",
   "parcel_s" : "3590/035"
 }
 , {
+  "building_name" : "Tenth Street Property",
   "parcel_s" : "3509/015"
 }
 , {
+  "building_name" : "101 GOLDEN GATE AVE",
   "parcel_s" : "0349/001"
 }
 , {
+  "building_name" : "10379-Noe Valley",
   "parcel_s" : "3654/041"
 }
 , {
+  "building_name" : "225 BAY SHORE BLVD",
   "parcel_s" : "5559/016"
 }
 , {
+  "building_name" : "1395 EVANS AVE",
   "parcel_s" : "5237/012"
 }
 , {
+  "building_name" : "417 31ST AVE",
   "parcel_s" : "1463/001"
 }
 , {
+  "building_name" : "547 SUTTER ST",
   "parcel_s" : "0296/013B"
 }
 , {
+  "building_name" : "2600 INGALLS ST",
   "parcel_s" : "4882/001"
 }
 , {
+  "building_name" : "10 HALLAM ST",
   "parcel_s" : "3755/079"
 }
 , {
+  "building_name" : "2253 SHAFTER AVE",
   "parcel_s" : "5350/014"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "0717/018"
+  "building_name" : "790 ELLIS ST",
+  "parcel_s" : "0717/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "115.9"
 }
 , {
+  "building_name" : "1315 EGBERT AVE",
   "parcel_s" : "4913/018"
 }
 , {
+  "building_name" : "1126 HOWARD ST",
   "parcel_s" : "3727/014"
 }
 , {
-  "parcel_s" : "0161/015"
+  "building_name" : "772 PACIFIC AVE",
+  "parcel_s" : "0161/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "3132.1"
 }
 , {
   "_2014_energy_star_score" : "22",
-  "parcel_s" : "1228/005"
+  "building_name" : "690 Stanyan",
+  "parcel_s" : "1228/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "460.5"
 }
 , {
+  "building_name" : "548 4TH ST",
   "parcel_s" : "3777/017"
 }
 , {
   "_2014_energy_star_score" : "66",
-  "parcel_s" : "5286A/020"
+  "building_name" : "2225 Jerrold LLC",
+  "parcel_s" : "5286A/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "78.4"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "3785/002"
+  "building_name" : "650 5th St.",
+  "parcel_s" : "3785/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "217.1"
 }
 , {
+  "building_name" : "201 Sansome st",
   "parcel_s" : "0260/017"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0694/017"
+  "building_name" : "Gayner Engineers",
+  "parcel_s" : "0694/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "53.9"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "3735/005"
+  "building_name" : "631 Howard",
+  "parcel_s" : "3735/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "177.9"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "0348/026"
+  "building_name" : "201 GOLDEN GATE AVE",
+  "parcel_s" : "0348/026",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "72.8"
 }
 , {
   "_2014_energy_star_score" : "73",
-  "parcel_s" : "1078/072"
+  "building_name" : "2186 Geary",
+  "parcel_s" : "1078/072",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "73.2"
 }
 , {
   "_2014_energy_star_score" : "70",
-  "parcel_s" : "0022/010"
+  "building_name" : "15571-HI SF Fisherman's Wharf Annex",
+  "parcel_s" : "0022/010",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "570.5"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "0267/015"
+  "building_name" : "235 Pine",
+  "parcel_s" : "0267/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "644.8"
 }
 , {
   "_2014_energy_star_score" : "48",
-  "parcel_s" : "0296/015"
+  "building_name" : "490 Post Street Owners Association",
+  "parcel_s" : "0296/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "669"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "3987/007"
+  "building_name" : "135 MISSISSIPPI ST",
+  "parcel_s" : "3987/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "156.8"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "4016/002"
+  "building_name" : "580 YORK ST",
+  "parcel_s" : "4016/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21.8"
 }
 , {
+  "building_name" : "340 BRYANT ST",
   "parcel_s" : "3764/061"
 }
 , {
+  "building_name" : "474 OFARRELL ST",
   "parcel_s" : "0317/009"
 }
 , {
+  "building_name" : "2215 REVERE AVE",
   "parcel_s" : "5348/006"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "3550/001"
+  "building_name" : "1 14th Street",
+  "parcel_s" : "3550/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "16.8"
 }
 , {
+  "building_name" : "643 FRONT ST",
   "parcel_s" : "0173/002"
 }
 , {
   "_2014_energy_star_score" : "73",
-  "parcel_s" : "0628/013"
+  "building_name" : "Pacific Professional Building",
+  "parcel_s" : "0628/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "680.3"
 }
 , {
+  "building_name" : "1680 EVANS AVE",
   "parcel_s" : "5226/012"
 }
 , {
+  "building_name" : "633 HOWARD ST",
   "parcel_s" : "3735/050"
 }
 , {
+  "building_name" : "115 Wisconsin St",
   "parcel_s" : "3953/003"
 }
 , {
   "_2014_energy_star_score" : "49",
-  "parcel_s" : "3642/032"
+  "building_name" : "2701 MISSION ST",
+  "parcel_s" : "3642/032",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "62.4"
 }
 , {
+  "building_name" : "2601 MASON ST",
   "parcel_s" : "0013/009"
 }
 , {
+  "building_name" : "1089 MARKET ST",
   "parcel_s" : "3703/060"
 }
 , {
-  "parcel_s" : "3552/012"
+  "building_name" : "1990 FOLSOM ST",
+  "parcel_s" : "3552/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "13.2"
 }
 , {
+  "building_name" : "157 BLUXOME ST",
   "parcel_s" : "3785/024"
 }
 , {
+  "building_name" : "2741 16th Street",
   "parcel_s" : "3572/021"
 }
 , {
+  "building_name" : "2195 FULTON ST",
   "parcel_s" : "1190/001"
 }
 , {
   "_2014_energy_star_score" : "82",
-  "parcel_s" : "0174/011"
+  "building_name" : "323 PACIFIC AVE",
+  "parcel_s" : "0174/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "37.6"
 }
 , {
   "_2014_energy_star_score" : "70",
-  "parcel_s" : "0135/001"
+  "building_name" : "945 Battery St",
+  "parcel_s" : "0135/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "267.5"
 }
 , {
+  "building_name" : "2601 MISSION ST",
   "parcel_s" : "3637/069"
 }
 , {
-  "parcel_s" : "3550/020"
+  "building_name" : "1830 Harrison",
+  "parcel_s" : "3550/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "41.4"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "3706/048"
+  "building_name" : "785 Market St.",
+  "parcel_s" : "3706/048",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "338.8"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "3905/002"
+  "building_name" : "Byer California - 66 Potrero Ave.",
+  "parcel_s" : "3905/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "376.3"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "0259/026"
+  "building_name" : "555 California",
+  "parcel_s" : "0259/026",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "11499.5"
 }
 , {
   "_2014_energy_star_score" : "43",
-  "parcel_s" : "0690/016"
+  "building_name" : "1355 SUTTER ST",
+  "parcel_s" : "0690/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "462.9"
 }
 , {
   "_2014_energy_star_score" : "82",
-  "parcel_s" : "3775/015"
+  "building_name" : "340 BRANNAN ST",
+  "parcel_s" : "3775/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "142"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "0242/005"
+  "building_name" : "Charles Dunn - 720 California Street",
+  "parcel_s" : "0242/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "440.7"
 }
 , {
-  "parcel_s" : "0307/009"
+  "building_name" : "491 Post Street, LLC",
+  "parcel_s" : "0307/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "52.2"
 }
 , {
-  "parcel_s" : "0574/012"
+  "building_name" : "1650 Pacific Avenue",
+  "parcel_s" : "0574/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "31.7"
 }
 , {
+  "building_name" : "1019 CLEMENT ST",
   "parcel_s" : "1443/040"
 }
 , {
+  "building_name" : "564 6TH ST",
   "parcel_s" : "3779/009"
 }
 , {
+  "building_name" : "865 STOCKTON ST",
   "parcel_s" : "0224/001"
 }
 , {
-  "parcel_s" : "3764/063"
+  "building_name" : "525 HARRISON ST",
+  "parcel_s" : "3764/063",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "20.6"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "0192/004"
+  "building_name" : "1009 STOCKTON ST",
+  "parcel_s" : "0192/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "8.4"
 }
 , {
-  "parcel_s" : "0287/011"
+  "building_name" : "256 Sutter Street",
+  "parcel_s" : "0287/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "37.6"
 }
 , {
+  "building_name" : "580 NORTH POINT ST",
   "parcel_s" : "0022/012"
 }
 , {
+  "building_name" : "149 BLUXOME ST",
   "parcel_s" : "3785/022"
 }
 , {
-  "parcel_s" : "0936/001"
+  "building_name" : "2301 CHESTNUT ST",
+  "parcel_s" : "0936/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "167.5"
 }
 , {
+  "building_name" : "149 2ND ST",
   "parcel_s" : "3721/049"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "3554/056"
+  "building_name" : "3068 16TH ST",
+  "parcel_s" : "3554/056",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "36.3"
 }
 , {
+  "building_name" : "1095 SHAFTER AVE",
   "parcel_s" : "4794/010"
 }
 , {
+  "building_name" : "1499 EVANS AVE",
   "parcel_s" : "5236/018"
 }
 , {
+  "building_name" : "1230 MARKET ST",
   "parcel_s" : "0355/004"
 }
 , {
+  "building_name" : "117 POST ST",
   "parcel_s" : "0310/022"
 }
 , {
-  "parcel_s" : "0012/007A"
+  "building_name" : "DiMaggio Building",
+  "parcel_s" : "0012/007A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "328.3"
 }
 , {
+  "building_name" : "661 Howard Street",
   "parcel_s" : "3735/040"
 }
 , {
+  "building_name" : "1660 PINE ST",
   "parcel_s" : "0647/010"
 }
 , {
+  "building_name" : "527 STEVENSON ST",
   "parcel_s" : "3703/012"
 }
 , {
   "_2014_energy_star_score" : "7",
-  "parcel_s" : "3612/048"
+  "building_name" : "2173-Stonestown",
+  "parcel_s" : "3612/048",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "312.7"
 }
 , {
-  "parcel_s" : "0690/001A"
+  "building_name" : "1233 VAN NESS AVE",
+  "parcel_s" : "0690/001A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "68.1"
 }
 , {
-  "parcel_s" : "1070/003"
+  "building_name" : "2700 Geary Blvd",
+  "parcel_s" : "1070/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "19.1"
 }
 , {
+  "building_name" : "163 EDDY ST",
   "parcel_s" : "0340/016"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "2025/003B"
+  "building_name" : "3869-SAN FRANCISCO, CA",
+  "parcel_s" : "2025/003B",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "71.2"
 }
 , {
+  "building_name" : "325 BROADWAY",
   "parcel_s" : "0164/030"
 }
 , {
-  "parcel_s" : "7102/025"
+  "building_name" : "2850 ALEMANY BLVD",
+  "parcel_s" : "7102/025",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "81.4"
 }
 , {
   "_2014_energy_star_score" : "3",
-  "parcel_s" : "2694/001"
+  "building_name" : "4201 18TH ST",
+  "parcel_s" : "2694/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "338"
 }
 , {
-  "parcel_s" : "3763/016"
+  "building_name" : "Stillman St",
+  "parcel_s" : "3763/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.4"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "0041/038"
+  "building_name" : "2310 MASON ST",
+  "parcel_s" : "0041/038",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.8"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3733/030"
+  "building_name" : "275 5TH ST",
+  "parcel_s" : "3733/030",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "15.3"
 }
 , {
+  "building_name" : "Valencia Street LLC",
   "parcel_s" : "3532/035"
 }
 , {
+  "building_name" : "1820 HARRISON ST",
   "parcel_s" : "3550/001B"
 }
 , {
-  "parcel_s" : "3721/082"
+  "building_name" : "Mission & Shaw LLC",
+  "parcel_s" : "3721/082",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "221.3"
 }
 , {
   "_2014_energy_star_score" : "66",
-  "parcel_s" : "0085/005"
+  "building_name" : "1301 Sansome Street",
+  "parcel_s" : "0085/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "153.6"
 }
 , {
   "_2014_energy_star_score" : "1",
-  "parcel_s" : "5203/061"
+  "building_name" : "375 NEWHALL ST",
+  "parcel_s" : "5203/061",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1664.9"
 }
 , {
   "_2014_energy_star_score" : "53",
-  "parcel_s" : "3508/022"
+  "building_name" : "1338 Mission",
+  "parcel_s" : "3508/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "30.9"
 }
 , {
+  "building_name" : "133 KEARNY ST",
   "parcel_s" : "0293/003"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0107/007"
+  "building_name" : "Levi - 1155 Battery Street",
+  "parcel_s" : "0107/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1470.1"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3799/008"
+  "building_name" : "625 TOWNSEND ST",
+  "parcel_s" : "3799/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "210.1"
 }
 , {
+  "building_name" : "285 WINSTON DR",
   "parcel_s" : "7296/006"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "0291/007"
+  "building_name" : "44 Montgomery",
+  "parcel_s" : "0291/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2502.8"
 }
 , {
-  "parcel_s" : "0238/006"
+  "building_name" : "350 Sansome",
+  "parcel_s" : "0238/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "505.5"
 }
 , {
+  "building_name" : "2485 MISSION ST",
   "parcel_s" : "3610/019"
 }
 , {
+  "building_name" : "141 INDUSTRIAL ST",
   "parcel_s" : "5333/039"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "0309/007"
+  "building_name" : "146 GEARY ST",
+  "parcel_s" : "0309/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "45.5"
 }
 , {
+  "building_name" : "2505 Mariposa St",
   "parcel_s" : "4015/006"
 }
 , {
-  "parcel_s" : "0666/006A"
+  "building_name" : "1540 Bush Street",
+  "parcel_s" : "0666/006A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "84.7"
 }
 , {
+  "building_name" : "157 13TH ST",
   "parcel_s" : "3530/039"
 }
 , {
+  "building_name" : "33 COLUMBUS AVE",
   "parcel_s" : "0195/004"
 }
 , {
-  "parcel_s" : "3575/035"
+  "building_name" : "2165 MISSION ST",
+  "parcel_s" : "3575/035",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "58.7"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0835/002"
+  "building_name" : "1444 MARKET ST",
+  "parcel_s" : "0835/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "52.9"
 }
 , {
+  "building_name" : "2500 MARIN ST",
   "parcel_s" : "4339/002"
 }
 , {
+  "building_name" : "2600 SLOAT BLVD",
   "parcel_s" : "2513/002"
 }
 , {
+  "building_name" : "1011 MARKET ST",
   "parcel_s" : "3703/056"
 }
 , {
   "_2014_energy_star_score" : "78",
-  "parcel_s" : "4570/031"
+  "building_name" : "101 CARGO WAY",
+  "parcel_s" : "4570/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "67.9"
 }
 , {
-  "parcel_s" : "0667/005"
+  "building_name" : "1430 BUSH ST",
+  "parcel_s" : "0667/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "13.7"
 }
 , {
+  "building_name" : "620 4TH ST",
   "parcel_s" : "3786/035"
 }
 , {
-  "parcel_s" : "3775/004"
+  "building_name" : "522 2ND ST",
+  "parcel_s" : "3775/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.3"
 }
 , {
+  "building_name" : "1001 16TH ST",
   "parcel_s" : "3951/001"
 }
 , {
   "_2014_energy_star_score" : "51",
-  "parcel_s" : "0174/008"
+  "building_name" : "710 SANSOME ST",
+  "parcel_s" : "0174/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "133.9"
 }
 , {
-  "parcel_s" : "3520/043"
+  "building_name" : "1425 Folsom Street",
+  "parcel_s" : "3520/043",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "22.6"
 }
 , {
+  "building_name" : "1385 CARROLL AVE",
   "parcel_s" : "4883/018"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "0670/022"
+  "building_name" : "1445 Bush St",
+  "parcel_s" : "0670/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "32.7"
 }
 , {
+  "building_name" : "1 STOCKTON ST",
   "parcel_s" : "0327/025"
 }
 , {
+  "building_name" : "1058 HOWARD ST",
   "parcel_s" : "3726/022"
 }
 , {
+  "building_name" : "1215 FELL ST",
   "parcel_s" : "1215/014"
 }
 , {
+  "building_name" : "2593 23RD AVE",
   "parcel_s" : "2424/049"
 }
 , {
-  "parcel_s" : "3636/001"
+  "building_name" : "2600 Mission St.",
+  "parcel_s" : "3636/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.1"
 }
 , {
+  "building_name" : "279 9TH ST",
   "parcel_s" : "3729/023"
 }
 , {
-  "parcel_s" : "3511/074"
+  "building_name" : "1517 MISSION ST",
+  "parcel_s" : "3511/074",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.7"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3704/021"
+  "building_name" : "972 Mission LLC",
+  "parcel_s" : "3704/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "96.4"
 }
 , {
   "_2014_energy_star_score" : "63",
-  "parcel_s" : "0296/005"
+  "building_name" : "Chancellor Hotel",
+  "parcel_s" : "0296/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "242.1"
 }
 , {
   "_2014_energy_star_score" : "3",
-  "parcel_s" : "0237/008"
+  "building_name" : "230 California",
+  "parcel_s" : "0237/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "561.5"
 }
 , {
-  "parcel_s" : "3575/091"
+  "building_name" : "2101 MISSION ST",
+  "parcel_s" : "3575/091",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "124.2"
 }
 , {
+  "building_name" : "625 MARKET ST",
   "parcel_s" : "3707/061"
 }
 , {
+  "building_name" : "240 GOLDEN GATE AVE",
   "parcel_s" : "0345/005"
 }
 , {
   "_2014_energy_star_score" : "13",
-  "parcel_s" : "0654/025"
+  "building_name" : "Mollie Stone's Markets #2",
+  "parcel_s" : "0654/025",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "438.7"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "0260/002"
+  "building_name" : "Bank of Orient",
+  "parcel_s" : "0260/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "189.8"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "3736/123"
+  "building_name" : "CBS Interactive",
+  "parcel_s" : "3736/123",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "972.8"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "3768/015"
+  "building_name" : "444 Spear LLC",
+  "parcel_s" : "3768/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "148.1"
 }
 , {
+  "building_name" : "1409 SUTTER ST",
   "parcel_s" : "0689/025"
 }
 , {
+  "building_name" : "390 BAY SHORE BLVD",
   "parcel_s" : "5596/013"
 }
 , {
+  "building_name" : "1069 PENNSYLVANIA AVE",
   "parcel_s" : "4226/021"
 }
 , {
-  "parcel_s" : "5340/009"
+  "building_name" : "YMCA Bayview",
+  "parcel_s" : "5340/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "120.8"
 }
 , {
-  "parcel_s" : "3707/021"
+  "building_name" : "666 MISSION ST",
+  "parcel_s" : "3707/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "31.5"
 }
 , {
+  "building_name" : "5757 GEARY BLVD",
   "parcel_s" : "1523/049"
 }
 , {
   "_2014_energy_star_score" : "70",
-  "parcel_s" : "4212/019"
+  "building_name" : "1189 Potrero Ave.",
+  "parcel_s" : "4212/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "93.6"
 }
 , {
-  "parcel_s" : "3754/057"
+  "building_name" : "1015 Folsom",
+  "parcel_s" : "3754/057",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "48"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "0309/021"
+  "building_name" : "250 STOCKTON ST",
+  "parcel_s" : "0309/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "13.9"
 }
 , {
+  "building_name" : "50 FELL ST",
   "parcel_s" : "0814/010"
 }
 , {
+  "building_name" : "1501 HARRISON ST",
   "parcel_s" : "3523/001"
 }
 , {
+  "building_name" : "111 ELLIS ST",
   "parcel_s" : "0330/001"
 }
 , {
+  "building_name" : "101 WILLIAMS AVE",
   "parcel_s" : "5415/001"
 }
 , {
+  "building_name" : "940 BATTERY ST",
   "parcel_s" : "0136/004A"
 }
 , {
-  "parcel_s" : "4288/004"
+  "building_name" : "1750 CESAR CHAVEZ ST",
+  "parcel_s" : "4288/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "229.2"
 }
 , {
-  "parcel_s" : "0692/013"
+  "building_name" : "1167-1199 Sutter Retail",
+  "parcel_s" : "0692/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "153"
 }
 , {
+  "building_name" : "120 2ND ST",
   "parcel_s" : "3722/002"
 }
 , {
-  "parcel_s" : "0310/001"
+  "building_name" : "101 POST ST",
+  "parcel_s" : "0310/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "129.2"
 }
 , {
+  "building_name" : "120 POWELL ST",
   "parcel_s" : "0327/013"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0355/006"
+  "building_name" : "1242 Market Street",
+  "parcel_s" : "0355/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.5"
 }
 , {
+  "building_name" : "259 7TH ST",
   "parcel_s" : "3731/033"
 }
 , {
-  "parcel_s" : "1019/062"
+  "building_name" : "3490 California",
+  "parcel_s" : "1019/062",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "50.5"
 }
 , {
-  "parcel_s" : "0690/001"
+  "building_name" : "1243 Van Ness",
+  "parcel_s" : "0690/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "147.7"
 }
 , {
+  "building_name" : "141 INDUSTRIAL ST",
   "parcel_s" : "5333/040"
 }
 , {
+  "building_name" : "335 7TH ST",
   "parcel_s" : "3754/018"
 }
 , {
+  "building_name" : "2075 FOLSOM ST",
   "parcel_s" : "3572/012"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3736/025"
+  "building_name" : "JAM Properties",
+  "parcel_s" : "3736/025",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "26.8"
 }
 , {
+  "building_name" : "1079 16TH ST",
   "parcel_s" : "3951/004"
 }
 , {
+  "building_name" : "1234 DIVISADERO ST",
   "parcel_s" : "1127/039"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "3703/033"
+  "building_name" : "1028 Mission Building",
+  "parcel_s" : "3703/033",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "84"
 }
 , {
   "_2014_energy_star_score" : "62",
-  "parcel_s" : "5585/004"
+  "building_name" : "2211 PALOU AVE",
+  "parcel_s" : "5585/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "75.4"
 }
 , {
+  "building_name" : "2700 45TH AVE",
   "parcel_s" : "2513/026"
 }
 , {
+  "building_name" : "1405 MINNESOTA ST",
   "parcel_s" : "4294/017"
 }
 , {
   "_2014_energy_star_score" : "62",
-  "parcel_s" : "0313/001"
+  "building_name" : "101 Geary Street",
+  "parcel_s" : "0313/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "29.2"
 }
 , {
-  "parcel_s" : "4357/003"
+  "building_name" : "Garfinkle Property",
+  "parcel_s" : "4357/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "3.3"
 }
 , {
+  "building_name" : "Adam Grant Building",
   "parcel_s" : "0267/010"
 }
 , {
-  "parcel_s" : "4851/017"
+  "building_name" : "1315 Armstrong Ave",
+  "parcel_s" : "4851/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "195"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "3776/041"
+  "building_name" : "PMI - 539 Bryant Street",
+  "parcel_s" : "3776/041",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "196.2"
 }
 , {
+  "building_name" : "1960 FOLSOM ST",
   "parcel_s" : "3552/046"
 }
 , {
   "_2014_energy_star_score" : "4",
-  "parcel_s" : "5246/052"
+  "building_name" : "Growers' Refrigeration",
+  "parcel_s" : "5246/052",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "178.8"
 }
 , {
-  "parcel_s" : "0743/203"
+  "building_name" : "711 Van Ness",
+  "parcel_s" : "0743/203",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "565.6"
 }
 , {
   "_2014_energy_star_score" : "53",
-  "parcel_s" : "0491/028"
+  "building_name" : "Cow Hollow Motor Inn",
+  "parcel_s" : "0491/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "194.7"
 }
 , {
   "_2014_energy_star_score" : "70",
-  "parcel_s" : "0136/003"
+  "building_name" : "921Front",
+  "parcel_s" : "0136/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "78.2"
 }
 , {
+  "building_name" : "624 VALLEJO ST",
   "parcel_s" : "0131/009"
 }
 , {
+  "building_name" : "1699 HOWARD ST",
   "parcel_s" : "3515/021"
 }
 , {
+  "building_name" : "165 OFARRELL ST",
   "parcel_s" : "0327/018"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "3751/157"
+  "building_name" : "360 3rd ST",
+  "parcel_s" : "3751/157",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2406.2"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "0173/005"
+  "building_name" : "607 FRONT ST",
+  "parcel_s" : "0173/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "48.3"
 }
 , {
+  "building_name" : "966 MARKET ST",
   "parcel_s" : "0342/002"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "3508/001"
+  "building_name" : "1355 Market St",
+  "parcel_s" : "3508/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2525.5"
 }
 , {
   "_2014_energy_star_score" : "72",
-  "parcel_s" : "0175/003"
+  "building_name" : "729 Sansome Street",
+  "parcel_s" : "0175/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "41.1"
 }
 , {
+  "building_name" : "690 FOLSOM ST",
   "parcel_s" : "3735/015"
 }
 , {
-  "parcel_s" : "1101/001"
+  "building_name" : "1363 Divisadero St",
+  "parcel_s" : "1101/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "57.1"
 }
 , {
   "_2014_energy_star_score" : "47",
-  "parcel_s" : "4227/034"
+  "building_name" : "1234 INDIANA ST",
+  "parcel_s" : "4227/034",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "37"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "3728/049"
+  "building_name" : "145 9TH ST",
+  "parcel_s" : "3728/049",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "39.8"
 }
 , {
   "_2014_energy_star_score" : "14",
-  "parcel_s" : "0326/003"
+  "building_name" : "00890-San Francisco, CA",
+  "parcel_s" : "0326/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "274"
 }
 , {
+  "building_name" : "34 MASON ST",
   "parcel_s" : "0341/007"
 }
 , {
+  "building_name" : "544 2ND ST",
   "parcel_s" : "3775/005"
 }
 , {
+  "building_name" : "2731 MISSION ST",
   "parcel_s" : "3642/030"
 }
 , {
+  "building_name" : "658 MISSION ST",
   "parcel_s" : "3707/020"
 }
 , {
+  "building_name" : "1241 EVANS AVE",
   "parcel_s" : "5237/039"
 }
 , {
   "_2014_energy_star_score" : "55",
-  "parcel_s" : "1401/002"
+  "building_name" : "01405 - 32nd Ave &amp; Clement St",
+  "parcel_s" : "1401/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "167.2"
 }
 , {
+  "building_name" : "475 6TH ST",
   "parcel_s" : "3760/027"
 }
 , {
+  "building_name" : "82-84 First Street",
   "parcel_s" : "3708/008"
 }
 , {
+  "building_name" : "120 8TH ST",
   "parcel_s" : "3728/002"
 }
 , {
+  "building_name" : "1111 MARKET ST",
   "parcel_s" : "3702/048A"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "3729/006"
+  "building_name" : "1200 Folsom Street",
+  "parcel_s" : "3729/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "66.7"
 }
 , {
-  "parcel_s" : "0066/001"
+  "building_name" : "701 Chestnut Street, LLC",
+  "parcel_s" : "0066/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "64.7"
 }
 , {
+  "building_name" : "217 SANSOME ST",
   "parcel_s" : "0260/004"
 }
 , {
+  "building_name" : "1173 HOWARD ST",
   "parcel_s" : "3730/059"
 }
 , {
-  "parcel_s" : "3722/006"
+  "building_name" : "116 NATOMA ST",
+  "parcel_s" : "3722/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "88.3"
 }
 , {
+  "building_name" : "230 8TH ST",
   "parcel_s" : "3729/004"
 }
 , {
+  "building_name" : "3000 16th Street",
   "parcel_s" : "3554/007"
 }
 , {
-  "parcel_s" : "4329/008"
+  "building_name" : "1501 Vermont",
+  "parcel_s" : "4329/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.6"
 }
 , {
+  "building_name" : "1201 MARKET ST",
   "parcel_s" : "3701/050"
 }
 , {
+  "building_name" : "1469 PACIFIC AVE",
   "parcel_s" : "0185/029"
 }
 , {
-  "parcel_s" : "4811/003"
+  "building_name" : "Evergood Sausage Co.",
+  "parcel_s" : "4811/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "969.7"
 }
 , {
-  "parcel_s" : "4230/001"
+  "building_name" : "2700 3RD ST",
+  "parcel_s" : "4230/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "57.4"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "3704/001"
+  "building_name" : "901 Market Street",
+  "parcel_s" : "3704/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "608.9"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "0262/013"
+  "building_name" : "PR III 255 California LLC",
+  "parcel_s" : "0262/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "777.9"
 }
 , {
   "_2014_energy_star_score" : "63",
-  "parcel_s" : "0297/028"
+  "building_name" : "500 Post",
+  "parcel_s" : "0297/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2033"
 }
 , {
+  "building_name" : "KQED",
   "parcel_s" : "4016/001"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0292/009"
+  "building_name" : "Galleria Park Hotel",
+  "parcel_s" : "0292/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "360.9"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "0313/018"
+  "building_name" : "Nieman Marcus",
+  "parcel_s" : "0313/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1070.1"
 }
 , {
   "_2014_energy_star_score" : "47",
-  "parcel_s" : "0266/008"
+  "building_name" : "98 Battery",
+  "parcel_s" : "0266/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "497.6"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "3789/007"
+  "building_name" : "625 Second Street",
+  "parcel_s" : "3789/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "492.9"
 }
 , {
+  "building_name" : "70400357 -- Folsom Str.",
   "parcel_s" : "3549/083"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "3708/028"
+  "building_name" : "Stevenson Place",
+  "parcel_s" : "3708/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1341"
 }
 , {
+  "building_name" : "725 GRANT AVE",
   "parcel_s" : "0225/004"
 }
 , {
   "_2014_energy_star_score" : "52",
-  "parcel_s" : "0763/005"
+  "building_name" : "544 GOLDEN GATE AVE",
+  "parcel_s" : "0763/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.9"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "0025/021"
+  "building_name" : "737 BEACH ST",
+  "parcel_s" : "0025/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21.3"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "0194/006"
+  "building_name" : "720 Washington",
+  "parcel_s" : "0194/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "13.4"
 }
 , {
   "_2014_energy_star_score" : "59",
-  "parcel_s" : "0496/013"
+  "building_name" : "3110 OCTAVIA ST",
+  "parcel_s" : "0496/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "72.6"
 }
 , {
+  "building_name" : "381 BUSH ST",
   "parcel_s" : "0288/017"
 }
 , {
-  "parcel_s" : "1450/019A"
+  "building_name" : "5420 Geary",
+  "parcel_s" : "1450/019A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.4"
 }
 , {
+  "building_name" : "169 11TH ST",
   "parcel_s" : "3510/021"
 }
 , {
+  "building_name" : "5767 MISSION ST",
   "parcel_s" : "6473/047"
 }
 , {
+  "building_name" : "5644 GEARY BLVD",
   "parcel_s" : "1452/022"
 }
 , {
+  "building_name" : "1023 MISSION ST",
   "parcel_s" : "3726/110"
 }
 , {
-  "parcel_s" : "3517/016"
+  "building_name" : "245 11th Street",
+  "parcel_s" : "3517/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.5"
 }
 , {
+  "building_name" : "2100 VAN NESS AVE",
   "parcel_s" : "0574/014"
 }
 , {
+  "building_name" : "445 HAMPSHIRE ST",
   "parcel_s" : "3973/002D"
 }
 , {
-  "parcel_s" : "0306/007A"
+  "building_name" : "450 Geary St",
+  "parcel_s" : "0306/007A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "59"
 }
 , {
+  "building_name" : "4350 GEARY BLVD",
   "parcel_s" : "1439/023"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "4025/003B"
+  "building_name" : "690 POTRERO AVE",
+  "parcel_s" : "4025/003B",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "3.6"
 }
 , {
+  "building_name" : "38 1ST ST",
   "parcel_s" : "3708/003"
 }
 , {
-  "parcel_s" : "3733/083"
+  "building_name" : "841 HOWARD ST",
+  "parcel_s" : "3733/083",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "3.3"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "0136/005"
+  "building_name" : "962 BATTERY ST",
+  "parcel_s" : "0136/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "47.2"
 }
 , {
+  "building_name" : "476 GEARY ST",
   "parcel_s" : "0306/009"
 }
 , {
+  "building_name" : "170 13TH ST",
   "parcel_s" : "3515/019"
 }
 , {
   "_2014_energy_star_score" : "2",
-  "parcel_s" : "0176/013"
+  "building_name" : "Sentinel Building",
+  "parcel_s" : "0176/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "151.5"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3519/005"
+  "building_name" : "360 9th St",
+  "parcel_s" : "3519/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "43.7"
 }
 , {
   "_2014_energy_star_score" : "37",
-  "parcel_s" : "5921/020"
+  "building_name" : "1390 SILVER AVE",
+  "parcel_s" : "5921/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "130.7"
 }
 , {
   "_2014_energy_star_score" : "51",
-  "parcel_s" : "5587/003"
+  "building_name" : "2132 PALOU AVE",
+  "parcel_s" : "5587/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "39.3"
 }
 , {
   "_2014_energy_star_score" : "28",
-  "parcel_s" : "3759/011"
+  "building_name" : "800 Bryant St",
+  "parcel_s" : "3759/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "67.3"
 }
 , {
+  "building_name" : "679 3RD ST",
   "parcel_s" : "3788/015"
 }
 , {
+  "building_name" : "1591 HARRISON ST",
   "parcel_s" : "3523/013"
 }
 , {
+  "building_name" : "188 Hooper",
   "parcel_s" : "3808/B004"
 }
 , {
+  "building_name" : "346 KEARNY ST",
   "parcel_s" : "0269/027"
 }
 , {
-  "parcel_s" : "0299/005"
+  "building_name" : "750 Post Street LLC",
+  "parcel_s" : "0299/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "16.6"
 }
 , {
+  "building_name" : "290 7TH ST",
   "parcel_s" : "3730/011"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "3514/031"
+  "building_name" : "1661 MISSION ST",
+  "parcel_s" : "3514/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21.3"
 }
 , {
-  "parcel_s" : "3722/022"
+  "building_name" : "180-Stephens Institute",
+  "parcel_s" : "3722/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "92.6"
 }
 , {
+  "building_name" : "1167 MISSION ST",
   "parcel_s" : "3727/120"
 }
 , {
+  "building_name" : "2727 Mariposa St.",
   "parcel_s" : "4017/002"
 }
 , {
+  "building_name" : "1398 BRYANT ST",
   "parcel_s" : "3923/002"
 }
 , {
+  "building_name" : "2015 STEINER ST",
   "parcel_s" : "0655/006"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "4991/075"
+  "building_name" : "5 THOMAS MELLON CIR",
+  "parcel_s" : "4991/075",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "230.5"
 }
 , {
+  "building_name" : "83 BLUXOME ST",
   "parcel_s" : "3786/018"
 }
 , {
+  "building_name" : "M & E LLC",
   "parcel_s" : "0261/005"
 }
 , {
   "_2014_energy_star_score" : "78",
-  "parcel_s" : "4044/052"
+  "building_name" : "Obscura Digital, LC",
+  "parcel_s" : "4044/052",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "104.3"
 }
 , {
+  "building_name" : "216 POST ST",
   "parcel_s" : "0294/007"
 }
 , {
+  "building_name" : "363 CLEMENTINA ST",
   "parcel_s" : "3733/091"
 }
 , {
-  "parcel_s" : "0285/005"
+  "building_name" : "400 Sutter",
+  "parcel_s" : "0285/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "43.4"
 }
 , {
+  "building_name" : "1975 MARKET ST",
   "parcel_s" : "3534/057"
 }
 , {
-  "parcel_s" : "3956/008"
+  "building_name" : "300 De Haro Center",
+  "parcel_s" : "3956/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "119.8"
 }
 , {
+  "building_name" : "1515 GALVEZ AVE",
   "parcel_s" : "5254/037"
 }
 , {
+  "building_name" : "843 STOCKTON ST",
   "parcel_s" : "0224/002"
 }
 , {
   "_2014_energy_star_score" : "17",
-  "parcel_s" : "2457/049"
+  "building_name" : "2801 VICENTE ST",
+  "parcel_s" : "2457/049",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "225.7"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0113/006"
+  "building_name" : "200 Green Street",
+  "parcel_s" : "0113/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "46.3"
 }
 , {
-  "parcel_s" : "0287/008"
+  "building_name" : "201 Kearny St / 212 Sutter St",
+  "parcel_s" : "0287/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "38.8"
 }
 , {
-  "parcel_s" : "0173/003"
+  "building_name" : "639 Front St",
+  "parcel_s" : "0173/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "45.6"
 }
 , {
+  "building_name" : "501 ALABAMA ST",
   "parcel_s" : "4018/005"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "1440/039"
+  "building_name" : "4444 Geary Blvd",
+  "parcel_s" : "1440/039",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "26.2"
 }
 , {
-  "parcel_s" : "0206/002"
+  "building_name" : "447 BATTERY ST",
+  "parcel_s" : "0206/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "89.6"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "0296/013A"
+  "building_name" : "559 SUTTER ST",
+  "parcel_s" : "0296/013A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "29.6"
 }
 , {
+  "building_name" : "665 GRANT AVE",
   "parcel_s" : "0242/001"
 }
 , {
-  "parcel_s" : "3987/008"
+  "building_name" : "1045 17TH ST",
+  "parcel_s" : "3987/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "20.3"
 }
 , {
-  "parcel_s" : "0294/004"
+  "building_name" : "239 Grant",
+  "parcel_s" : "0294/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "51.9"
 }
 , {
+  "building_name" : "525 6TH ST",
   "parcel_s" : "3778/018"
 }
 , {
-  "parcel_s" : "0025/012"
+  "building_name" : "3040 LARKIN ST",
+  "parcel_s" : "0025/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "57.9"
 }
 , {
+  "building_name" : "527 CASTRO ST",
   "parcel_s" : "3583/068"
 }
 , {
-  "parcel_s" : "4106/024"
+  "building_name" : "955 INDIANA ST",
+  "parcel_s" : "4106/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "150"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "4108/003O"
+  "building_name" : "2400 3RD ST",
+  "parcel_s" : "4108/003O",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "58.6"
 }
 , {
+  "building_name" : "231 GRANT AVE",
   "parcel_s" : "0294/005"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "0228/004"
+  "building_name" : "401 SANSOME ST",
+  "parcel_s" : "0228/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "20.1"
 }
 , {
+  "building_name" : "693 SUTTER ST",
   "parcel_s" : "0297/009"
 }
 , {
-  "parcel_s" : "0228/011"
+  "building_name" : "565 COMMERCIAL ST",
+  "parcel_s" : "0228/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "50.6"
 }
 , {
-  "parcel_s" : "0131/018"
+  "building_name" : "470 Columbus",
+  "parcel_s" : "0131/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "74.4"
 }
 , {
   "_2014_energy_star_score" : "42",
-  "parcel_s" : "3920/005"
+  "building_name" : "150 POTRERO AVE",
+  "parcel_s" : "3920/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "15"
 }
 , {
+  "building_name" : "433 TURK ST",
   "parcel_s" : "0346/016"
 }
 , {
+  "building_name" : "2340 Chestnut Street",
   "parcel_s" : "0929/014"
 }
 , {
-  "parcel_s" : "0296/013C"
+  "building_name" : "545 Sutter St.",
+  "parcel_s" : "0296/013C",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21.8"
 }
 , {
+  "building_name" : "375 SUTTER ST",
   "parcel_s" : "0294/016"
 }
 , {
+  "building_name" : "525 4TH ST",
   "parcel_s" : "3776/117"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "3756/032"
+  "building_name" : "325 9TH ST",
+  "parcel_s" : "3756/032",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "30.5"
 }
 , {
-  "parcel_s" : "3531/027"
+  "building_name" : "195 ERIE ST",
+  "parcel_s" : "3531/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "55.3"
 }
 , {
   "_2014_energy_star_score" : "59",
-  "parcel_s" : "0499/009"
+  "building_name" : "2850 VAN NESS AVE",
+  "parcel_s" : "0499/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "74"
 }
 , {
+  "building_name" : "558 SACRAMENTO ST",
   "parcel_s" : "0228/009"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "3708/023"
+  "building_name" : "40J-Student Services Center",
+  "parcel_s" : "3708/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "116.2"
 }
 , {
-  "parcel_s" : "3787/026"
+  "building_name" : "655 4TH ST",
+  "parcel_s" : "3787/026",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "150.1"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "0260/008"
+  "building_name" : "354 Pine Street LLC",
+  "parcel_s" : "0260/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "77.5"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "8721/011"
+  "building_name" : "550 Terry Francois",
+  "parcel_s" : "8721/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1455.1"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "1701/001A"
+  "building_name" : "Great Highway Inn",
+  "parcel_s" : "1701/001A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "82"
 }
 , {
-  "parcel_s" : "3707/058"
+  "building_name" : "Hearst Parking Center",
+  "parcel_s" : "3707/058",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "131.1"
 }
 , {
-  "parcel_s" : "0279/004"
+  "building_name" : "815 Hyde St.",
+  "parcel_s" : "0279/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "43.9"
 }
 , {
+  "building_name" : "30 ONONDAGA AVE",
   "parcel_s" : "6956/023"
 }
 , {
-  "parcel_s" : "3702/048"
+  "building_name" : "1117-1119 Market Street",
+  "parcel_s" : "3702/048",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "19.2"
 }
 , {
+  "building_name" : "Showplace East",
   "parcel_s" : "3914/001"
 }
 , {
+  "building_name" : "989 Market Street",
   "parcel_s" : "3704/068"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "4991/086"
+  "building_name" : "150 EXECUTIVE PARK BLVD",
+  "parcel_s" : "4991/086",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "289.2"
 }
 , {
   "_2014_energy_star_score" : "73",
-  "parcel_s" : "0287/010"
+  "building_name" : "250 Sutter",
+  "parcel_s" : "0287/010",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "152.9"
 }
 , {
+  "building_name" : "2 CONNECTICUT ST",
   "parcel_s" : "3952/001"
 }
 , {
   "_2014_energy_star_score" : "53",
-  "parcel_s" : "0309/027"
+  "building_name" : "225 POST ST",
+  "parcel_s" : "0309/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "66.4"
 }
 , {
   "_2014_energy_star_score" : "66",
-  "parcel_s" : "0206/018"
+  "building_name" : "423 WASHINGTON ST",
+  "parcel_s" : "0206/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "57"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "0140/005"
+  "building_name" : "60 BROADWAY",
+  "parcel_s" : "0140/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33.4"
 }
 , {
+  "building_name" : "1500 BURKE AVE",
   "parcel_s" : "5203/038"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "1007/008"
+  "building_name" : "3220 SACRAMENTO ST",
+  "parcel_s" : "1007/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "27.5"
 }
 , {
   "_2014_energy_star_score" : "39",
-  "parcel_s" : "3504/033"
+  "building_name" : "1707 MARKET ST",
+  "parcel_s" : "3504/033",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "150.5"
 }
 , {
+  "building_name" : "111 TOWNSEND ST",
   "parcel_s" : "3794/014"
 }
 , {
+  "building_name" : "420 SUTTER ST",
   "parcel_s" : "0285/005A"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3775/101"
+  "building_name" : "334 BRANNAN ST",
+  "parcel_s" : "3775/101",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "26.7"
 }
 , {
+  "building_name" : "2835 GEARY BLVD",
   "parcel_s" : "1091/032"
 }
 , {
+  "building_name" : "1337 SUTTER ST",
   "parcel_s" : "0690/012"
 }
 , {
+  "building_name" : "214 VAN NESS AVE",
   "parcel_s" : "0811/012"
 }
 , {
+  "building_name" : "225 INDUSTRIAL ST",
   "parcel_s" : "5370/054"
 }
 , {
-  "parcel_s" : "0313/003"
+  "building_name" : "55 Grant Ave",
+  "parcel_s" : "0313/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "13.2"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0291/004"
+  "building_name" : "560 MARKET ST",
+  "parcel_s" : "0291/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "28.5"
 }
 , {
-  "parcel_s" : "4023/004A"
+  "building_name" : "2750 19TH ST",
+  "parcel_s" : "4023/004A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "11.1"
 }
 , {
+  "building_name" : "701 PHELPS ST",
   "parcel_s" : "5260/019"
 }
 , {
   "_2014_energy_star_score" : "94",
-  "parcel_s" : "3786/027"
+  "building_name" : "525 Brannan",
+  "parcel_s" : "3786/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "171.7"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "3776/011"
+  "building_name" : "414 Brannan Street",
+  "parcel_s" : "3776/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33.3"
 }
 , {
+  "building_name" : "398 11TH ST",
   "parcel_s" : "3521/013"
 }
 , {
+  "building_name" : "170 SOUTH VAN NESS AVE",
   "parcel_s" : "3514/039"
 }
 , {
-  "parcel_s" : "0355/007"
+  "building_name" : "1244 Market",
+  "parcel_s" : "0355/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "80"
 }
 , {
+  "building_name" : "460 9TH ST",
   "parcel_s" : "3525/010"
 }
 , {
   "_2014_energy_star_score" : "63",
-  "parcel_s" : "3736/095"
+  "building_name" : "217 Second Street",
+  "parcel_s" : "3736/095",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "84.6"
 }
 , {
   "_2014_energy_star_score" : "17",
-  "parcel_s" : "0228/031"
+  "building_name" : "559 Clay Street",
+  "parcel_s" : "0228/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "80.4"
 }
 , {
+  "building_name" : "660 York",
   "parcel_s" : "4023/004"
 }
 , {
   "_2014_energy_star_score" : "1",
-  "parcel_s" : "1068/001J"
+  "building_name" : "2900 GEARY BLVD",
+  "parcel_s" : "1068/001J",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "186.9"
 }
 , {
+  "building_name" : "2765 16TH ST",
   "parcel_s" : "3572/020A"
 }
 , {
+  "building_name" : "333-343 Kearny St",
   "parcel_s" : "0270/002"
 }
 , {
-  "parcel_s" : "1541/040"
+  "building_name" : "3921 GEARY BLVD",
+  "parcel_s" : "1541/040",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "62.6"
 }
 , {
+  "building_name" : "630 TREAT AVE",
   "parcel_s" : "3593/038"
 }
 , {
+  "building_name" : "601 GRANT AVE",
   "parcel_s" : "0242/056"
 }
 , {
+  "building_name" : "177 STILLMAN ST",
   "parcel_s" : "3762/037"
 }
 , {
+  "building_name" : "401 MASON ST",
   "parcel_s" : "0306/004"
 }
 , {
+  "building_name" : "1900 VAN NESS AVE",
   "parcel_s" : "0598/009"
 }
 , {
+  "building_name" : "364 BUSH ST",
   "parcel_s" : "0269/004"
 }
 , {
-  "parcel_s" : "0131/015"
+  "building_name" : "408 Columbus",
+  "parcel_s" : "0131/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "71.7"
 }
 , {
-  "parcel_s" : "3520/027"
+  "building_name" : "355 11TH ST",
+  "parcel_s" : "3520/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1001.1"
 }
 , {
   "_2014_energy_star_score" : "5",
-  "parcel_s" : "3776/094"
+  "building_name" : "531 BRYANT ST",
+  "parcel_s" : "3776/094",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "68.7"
 }
 , {
+  "building_name" : "1218 Connecticut St",
   "parcel_s" : "4324/003"
 }
 , {
+  "building_name" : "1401 ILLINOIS ST",
   "parcel_s" : "4244/003"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "0293/007"
+  "building_name" : "180 Post Street",
+  "parcel_s" : "0293/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "70.5"
 }
 , {
-  "parcel_s" : "3507/040"
+  "building_name" : "1455 Market Street",
+  "parcel_s" : "3507/040",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "7605.4"
 }
 , {
   "_2014_energy_star_score" : "24",
-  "parcel_s" : "5431A/001F"
+  "building_name" : "Digital Realty Trust",
+  "parcel_s" : "5431A/001F",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "20766.9"
 }
 , {
+  "building_name" : "1990 OCEAN AVE",
   "parcel_s" : "3280/018"
 }
 , {
-  "parcel_s" : "4316/002"
+  "building_name" : "1100 Cesar Chavez",
+  "parcel_s" : "4316/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.6"
 }
 , {
   "_2014_energy_star_score" : "53",
-  "parcel_s" : "0309/020"
+  "building_name" : "240 Stockton",
+  "parcel_s" : "0309/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "258.3"
 }
 , {
   "_2014_energy_star_score" : "71",
-  "parcel_s" : "0018/005"
+  "building_name" : "100 NORTH POINT ST",
+  "parcel_s" : "0018/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "382.4"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "3923/006"
+  "building_name" : "Hamms Building",
+  "parcel_s" : "3923/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "523.2"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "3636/011"
+  "building_name" : "4231-SAN FRANCISCO, CA",
+  "parcel_s" : "3636/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "116.4"
 }
 , {
   "_2014_energy_star_score" : "94",
-  "parcel_s" : "3775/016"
+  "building_name" : "350 Brannan Street",
+  "parcel_s" : "3775/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "38.8"
 }
 , {
+  "building_name" : "733 GRANT AVE",
   "parcel_s" : "0225/003"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0309/017"
+  "building_name" : "233 POST ST",
+  "parcel_s" : "0309/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "63.1"
 }
 , {
   "_2014_energy_star_score" : "20",
-  "parcel_s" : "3757/046"
+  "building_name" : "455 9TH ST",
+  "parcel_s" : "3757/046",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "113.4"
 }
 , {
+  "building_name" : "1278 INDIANA ST",
   "parcel_s" : "4227/032"
 }
 , {
+  "building_name" : "451",
   "parcel_s" : "0196/019"
 }
 , {
   "_2014_energy_star_score" : "52",
-  "parcel_s" : "0240/001"
+  "building_name" : "451 Montgomery Street",
+  "parcel_s" : "0240/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "68.8"
 }
 , {
+  "building_name" : "450 IRWIN ST",
   "parcel_s" : "3820/002"
 }
 , {
+  "building_name" : "5655 GEARY BLVD",
   "parcel_s" : "1524/036"
 }
 , {
+  "building_name" : "420 Bryant",
   "parcel_s" : "3763/009"
 }
 , {
+  "building_name" : "175 GOLDEN GATE AVE",
   "parcel_s" : "0349/011"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "4023/005"
+  "building_name" : "2001 Bryant Street",
+  "parcel_s" : "4023/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "24.2"
 }
 , {
+  "building_name" : "46 GEARY ST",
   "parcel_s" : "0310/024"
 }
 , {
+  "building_name" : "834 DIVISADERO ST",
   "parcel_s" : "1180/015"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "3788/002"
+  "building_name" : "640 2ND ST",
+  "parcel_s" : "3788/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "60"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "0196/028"
+  "building_name" : "700 MONTGOMERY ST",
+  "parcel_s" : "0196/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "19.6"
 }
 , {
+  "building_name" : "80 ELMIRA ST",
   "parcel_s" : "5369/070"
 }
 , {
-  "parcel_s" : "4019/002"
+  "building_name" : "2175 HARRISON ST",
+  "parcel_s" : "4019/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "115.8"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "0269/021"
+  "building_name" : "471 PINE ST",
+  "parcel_s" : "0269/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "16.5"
 }
 , {
+  "building_name" : "4601 3RD ST",
   "parcel_s" : "5306/029"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "3749/001"
+  "building_name" : "501 Folsom Street LLC",
+  "parcel_s" : "3749/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "102.6"
 }
 , {
+  "building_name" : "1585 FOLSOM ST",
   "parcel_s" : "3521/027"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3736/098"
+  "building_name" : "589 HOWARD ST",
+  "parcel_s" : "3736/098",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2"
 }
 , {
+  "building_name" : "1355 FAIRFAX AVE",
   "parcel_s" : "5240/043"
 }
 , {
+  "building_name" : "600 ALABAMA ST",
   "parcel_s" : "4020/001"
 }
 , {
   "_2014_energy_star_score" : "65",
-  "parcel_s" : "3639/004B"
+  "building_name" : "3050 23rd Street",
+  "parcel_s" : "3639/004B",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "13.2"
 }
 , {
   "_2014_energy_star_score" : "39",
-  "parcel_s" : "3519/006"
+  "building_name" : "364 9TH ST",
+  "parcel_s" : "3519/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "109.3"
 }
 , {
+  "building_name" : "601 GRANT AVE",
   "parcel_s" : "0242/055"
 }
 , {
+  "building_name" : "660 CALIFORNIA ST",
   "parcel_s" : "0241/011"
 }
 , {
-  "parcel_s" : "2412/034"
+  "building_name" : "2400 14TH AVE",
+  "parcel_s" : "2412/034",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.2"
 }
 , {
+  "building_name" : "690 5TH ST",
   "parcel_s" : "3785/003"
 }
 , {
-  "parcel_s" : "0689/001"
+  "building_name" : "1355 Franklin",
+  "parcel_s" : "0689/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.3"
 }
 , {
+  "building_name" : "2265 LOMBARD ST",
   "parcel_s" : "0511/039"
 }
 , {
   "_2014_energy_star_score" : "62",
-  "parcel_s" : "0506/036"
+  "building_name" : "1727 LOMBARD ST",
+  "parcel_s" : "0506/036",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "61.7"
 }
 , {
+  "building_name" : "235 BAY SHORE BLVD",
   "parcel_s" : "5560/001"
 }
 , {
+  "building_name" : "240 7TH ST",
   "parcel_s" : "3730/119"
 }
 , {
   "_2014_energy_star_score" : "60",
-  "parcel_s" : "3785/004"
+  "building_name" : "424 TOWNSEND ST",
+  "parcel_s" : "3785/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "11.9"
 }
 , {
+  "building_name" : "470 PACIFIC AVE",
   "parcel_s" : "0164/011"
 }
 , {
   "_2014_energy_star_score" : "76",
-  "parcel_s" : "0298/001"
+  "building_name" : "701 Sutter Street",
+  "parcel_s" : "0298/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "74.7"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "0174/003"
+  "building_name" : "633 Battery",
+  "parcel_s" : "0174/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "371.2"
 }
 , {
-  "parcel_s" : "0316/002"
+  "building_name" : "Mason O'Farrell Garage",
+  "parcel_s" : "0316/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "292.8"
 }
 , {
-  "parcel_s" : "3511/093"
+  "building_name" : "08482-Van Ness",
+  "parcel_s" : "3511/093",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "86.1"
 }
 , {
   "_2014_energy_star_score" : "30",
-  "parcel_s" : "3920/001"
+  "building_name" : "100 Potrero",
+  "parcel_s" : "3920/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "580.5"
 }
 , {
-  "parcel_s" : "0018/004"
+  "building_name" : "2300 Stockton Street, LLC",
+  "parcel_s" : "0018/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "92.1"
 }
 , {
+  "building_name" : "135 GOLDEN GATE AVE",
   "parcel_s" : "0349/012"
 }
 , {
   "_2014_energy_star_score" : "63",
-  "parcel_s" : "3735/008"
+  "building_name" : "282 2nd Street",
+  "parcel_s" : "3735/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "217.5"
 }
 , {
+  "building_name" : "Archdiocese of San Francisco Pastoral Center",
   "parcel_s" : "0696/024"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "0290/011"
+  "building_name" : "One Bush Street",
+  "parcel_s" : "0290/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2112.5"
 }
 , {
+  "building_name" : "5225 MISSION ST",
   "parcel_s" : "6462/022"
 }
 , {
+  "building_name" : "555 BEACH ST",
   "parcel_s" : "0023/003"
 }
 , {
+  "building_name" : "519 STEVENSON ST",
   "parcel_s" : "3703/054"
 }
 , {
+  "building_name" : "360 BAY SHORE BLVD",
   "parcel_s" : "5596/053"
 }
 , {
+  "building_name" : "156 GEARY ST",
   "parcel_s" : "0309/009"
 }
 , {
-  "parcel_s" : "3752/011A"
+  "building_name" : "390 4th street",
+  "parcel_s" : "3752/011A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "7.7"
 }
 , {
+  "building_name" : "143 2ND ST",
   "parcel_s" : "3721/050"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3729/024"
+  "building_name" : "Ninth Street",
+  "parcel_s" : "3729/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "26.4"
 }
 , {
   "_2014_energy_star_score" : "73",
-  "parcel_s" : "0175/032"
+  "building_name" : "Blackboard Inc",
+  "parcel_s" : "0175/032",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "95.1"
 }
 , {
   "_2014_energy_star_score" : "81",
-  "parcel_s" : "0309/014"
+  "building_name" : "Town and Country Club",
+  "parcel_s" : "0309/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "52.8"
 }
 , {
   "_2014_energy_star_score" : "65",
-  "parcel_s" : "0237/006"
+  "building_name" : "200 California",
+  "parcel_s" : "0237/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "146.2"
 }
 , {
   "_2014_energy_star_score" : "57",
-  "parcel_s" : "0872/002"
+  "building_name" : "1930 MARKET ST",
+  "parcel_s" : "0872/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "51.7"
 }
 , {
-  "parcel_s" : "0206/014"
+  "building_name" : "425 Washington",
+  "parcel_s" : "0206/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "51.6"
 }
 , {
   "_2014_energy_star_score" : "34",
-  "parcel_s" : "3520/029"
+  "building_name" : "321 11th ST",
+  "parcel_s" : "3520/029",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "54.9"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "3776/005"
+  "building_name" : "550 THIRD STREET",
+  "parcel_s" : "3776/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "50.7"
 }
 , {
+  "building_name" : "340 MASON ST",
   "parcel_s" : "0315/019"
 }
 , {
+  "building_name" : "511 HARRISON ST",
   "parcel_s" : "3764/055"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "0493/007"
+  "building_name" : "1940 LOMBARD ST",
+  "parcel_s" : "0493/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "43.9"
 }
 , {
+  "building_name" : "54 MINT ST",
   "parcel_s" : "3704/034"
 }
 , {
+  "building_name" : "45 POWELL ST",
   "parcel_s" : "0330/002"
 }
 , {
+  "building_name" : "715 HARRISON ST",
   "parcel_s" : "3762/118"
 }
 , {
+  "building_name" : "616 GRANT AVE",
   "parcel_s" : "0241/014"
 }
 , {
   "_2014_energy_star_score" : "51",
-  "parcel_s" : "1518/033"
+  "building_name" : "6221 GEARY BLVD",
+  "parcel_s" : "1518/033",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "70.3"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0090/030"
+  "building_name" : "725 Greenwich St. Apartment",
+  "parcel_s" : "0090/030",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33.1"
 }
 , {
+  "building_name" : "4545 GEARY BLVD",
   "parcel_s" : "1535/041"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "3779/166"
+  "building_name" : "750 BRANNAN ST",
+  "parcel_s" : "3779/166",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "38.9"
 }
 , {
   "_2014_energy_star_score" : "65",
-  "parcel_s" : "3788/024"
+  "building_name" : "361-365 Brannan St.",
+  "parcel_s" : "3788/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "160.8"
 }
 , {
   "_2014_energy_star_score" : "66",
-  "parcel_s" : "0678/004"
+  "building_name" : "1833 FILLMORE ST",
+  "parcel_s" : "0678/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "39.1"
 }
 , {
   "_2014_energy_star_score" : "63",
-  "parcel_s" : "0228/013"
+  "building_name" : "500 Montgomery Street",
+  "parcel_s" : "0228/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "70.5"
 }
 , {
+  "building_name" : "560 7TH ST",
   "parcel_s" : "3780/004"
 }
 , {
+  "building_name" : "2790 MISSION ST",
   "parcel_s" : "3643/010A"
 }
 , {
+  "building_name" : "366 CLEMENTINA ST",
   "parcel_s" : "3733/106"
 }
 , {
+  "building_name" : "4800 MISSION ST",
   "parcel_s" : "6959/028"
 }
 , {
-  "parcel_s" : "3525/008"
+  "building_name" : "450 9TH ST",
+  "parcel_s" : "3525/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "38.4"
 }
 , {
   "_2014_energy_star_score" : "25",
-  "parcel_s" : "3707/004"
+  "building_name" : "109 Stevenson",
+  "parcel_s" : "3707/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "84.3"
 }
 , {
+  "building_name" : "740 WASHINGTON ST",
   "parcel_s" : "0194/009"
 }
 , {
+  "building_name" : "992 PERALTA AVE",
   "parcel_s" : "5696/036"
 }
 , {
+  "building_name" : "The Heineman Building (130 Bush St)",
   "parcel_s" : "0267/009"
 }
 , {
   "_2014_energy_star_score" : "26",
-  "parcel_s" : "3708/009"
+  "building_name" : "88 1st Street",
+  "parcel_s" : "3708/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "126.1"
 }
 , {
+  "building_name" : "First Congregational Church of San Francisco",
   "parcel_s" : "0668/004A"
 }
 , {
-  "parcel_s" : "9900/048"
+  "building_name" : "Pier 48 - Shed A",
+  "parcel_s" : "9900/048",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "28.7"
 }
 , {
-  "parcel_s" : "0452/002"
+  "building_name" : "900 North Point St.",
+  "parcel_s" : "0452/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "422"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "3783/008"
+  "building_name" : "600 Townsend",
+  "parcel_s" : "3783/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1561.9"
 }
 , {
   "_2014_energy_star_score" : "14",
-  "parcel_s" : "0526/021"
+  "building_name" : "Davinci villa",
+  "parcel_s" : "0526/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "400.8"
 }
 , {
   "_2014_energy_star_score" : "72",
-  "parcel_s" : "3735/010"
+  "building_name" : "620 Folsom Street",
+  "parcel_s" : "3735/010",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "236.6"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "3799/001"
+  "building_name" : "601 Townsend St.",
+  "parcel_s" : "3799/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1776.7"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "3505/009"
+  "building_name" : "56 12TH ST",
+  "parcel_s" : "3505/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.1"
 }
 , {
+  "building_name" : "959 MISSION ST",
   "parcel_s" : "3725/087"
 }
 , {
-  "parcel_s" : "0242/027"
+  "building_name" : "YMCA Chinatown",
+  "parcel_s" : "0242/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "177.5"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3752/095"
+  "building_name" : "880 Harrison",
+  "parcel_s" : "3752/095",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "38.8"
 }
 , {
-  "parcel_s" : "0286/007"
+  "building_name" : "World Affairs Center",
+  "parcel_s" : "0286/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "232.6"
 }
 , {
+  "building_name" : "923 MARKET ST",
   "parcel_s" : "3704/077"
 }
 , {
+  "building_name" : "921 HOWARD ST",
   "parcel_s" : "3732/100"
 }
 , {
-  "parcel_s" : "0030/012"
+  "building_name" : "Petco Building",
+  "parcel_s" : "0030/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "10.1"
 }
 , {
+  "building_name" : "285 WINSTON DR",
   "parcel_s" : "7296/009"
 }
 , {
+  "building_name" : "942 MISSION ST",
   "parcel_s" : "3704/015"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "0165/008"
+  "building_name" : "832 SANSOME ST",
+  "parcel_s" : "0165/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "47.5"
 }
 , {
-  "parcel_s" : "0929/012"
+  "building_name" : "CRUNCH Fitness #204",
+  "parcel_s" : "0929/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "46"
 }
 , {
-  "parcel_s" : "3777/055"
+  "building_name" : "Hundley Hardware",
+  "parcel_s" : "3777/055",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.2"
 }
 , {
+  "building_name" : "75 ARKANSAS ST",
   "parcel_s" : "3952/001B"
 }
 , {
   "_2014_energy_star_score" : "74",
-  "parcel_s" : "3777/042"
+  "building_name" : "552 BRANNAN ST",
+  "parcel_s" : "3777/042",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "87"
 }
 , {
+  "building_name" : "5815 3RD ST",
   "parcel_s" : "4881/022"
 }
 , {
-  "parcel_s" : "3554/018"
+  "building_name" : "475 Valencia Street",
+  "parcel_s" : "3554/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21.2"
 }
 , {
+  "building_name" : "700 EDDY ST",
   "parcel_s" : "0739/002"
 }
 , {
+  "building_name" : "Challenge to Learning",
   "parcel_s" : "1610/001"
 }
 , {
-  "parcel_s" : "0287/018"
+  "building_name" : "Chen Properties - 461 Bush St.",
+  "parcel_s" : "0287/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.9"
 }
 , {
   "_2014_energy_star_score" : "56",
-  "parcel_s" : "0741/012"
+  "building_name" : "Phoenix Hotel",
+  "parcel_s" : "0741/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "235.6"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3548/031"
+  "building_name" : "Walden House",
+  "parcel_s" : "3548/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33.8"
 }
 , {
+  "building_name" : "Redwood Inn",
   "parcel_s" : "0497/010"
 }
 , {
-  "parcel_s" : "3775/073"
+  "building_name" : "501 3RD ST",
+  "parcel_s" : "3775/073",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "14.9"
 }
 , {
+  "building_name" : "678 GREEN ST",
   "parcel_s" : "0117/010"
 }
 , {
-  "parcel_s" : "5240/042"
+  "building_name" : "Meals on Wheels",
+  "parcel_s" : "5240/042",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "118.5"
 }
 , {
-  "parcel_s" : "5598/030"
+  "building_name" : "Bayshore Center II",
+  "parcel_s" : "5598/030",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "190.7"
 }
 , {
-  "parcel_s" : "0298/033"
+  "building_name" : "H.B. Johnson Store Company",
+  "parcel_s" : "0298/033",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "190.8"
 }
 , {
+  "building_name" : "Petite Auberge",
   "parcel_s" : "0283/016"
 }
 , {
+  "building_name" : "850 VAN NESS AVE",
   "parcel_s" : "0739/010"
 }
 , {
-  "parcel_s" : "0295/013"
+  "building_name" : "Williams Sonoma - 431 Sutter",
+  "parcel_s" : "0295/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "32.8"
 }
 , {
   "_2014_energy_star_score" : "31",
-  "parcel_s" : "0508/012"
+  "building_name" : "Hotel Del Sol",
+  "parcel_s" : "0508/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "138.6"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "5273/014"
+  "building_name" : "St. John Missionary Baptist Church",
+  "parcel_s" : "5273/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "20.7"
 }
 , {
+  "building_name" : "981 HOWARD ST",
   "parcel_s" : "3732/119"
 }
 , {
   "_2014_energy_star_score" : "34",
-  "parcel_s" : "1215/016"
+  "building_name" : "425 Divisadero",
+  "parcel_s" : "1215/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "213.3"
 }
 , {
+  "building_name" : "Holiday Inn Golden Gateway",
   "parcel_s" : "0646/016"
 }
 , {
+  "building_name" : "333 BRANNAN ST",
   "parcel_s" : "3788/042"
 }
 , {
+  "building_name" : "808 BRANNAN ST",
   "parcel_s" : "3780/004D"
 }
 , {
+  "building_name" : "1 JONES ST",
   "parcel_s" : "0349/003"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "3533/007"
+  "building_name" : "San Francisco Friends School",
+  "parcel_s" : "3533/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "124"
 }
 , {
+  "building_name" : "500 Terry Francois Blvd",
   "parcel_s" : "8721/010"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0229/003"
+  "building_name" : "The Bently Reserve",
+  "parcel_s" : "0229/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "920.4"
 }
 , {
+  "building_name" : "2203 3RD ST",
   "parcel_s" : "4058/009"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "1275/059"
+  "building_name" : "Parnassus Heights Medical Center",
+  "parcel_s" : "1275/059",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "458.5"
 }
 , {
   "_2014_energy_star_score" : "42",
-  "parcel_s" : "0327/008"
+  "building_name" : "Retail",
+  "parcel_s" : "0327/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "64.2"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "0298/007"
+  "building_name" : "Fitzgerald Hotel",
+  "parcel_s" : "0298/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "70.7"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "0192/019"
+  "building_name" : "855 JACKSON ST",
+  "parcel_s" : "0192/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "11.2"
 }
 , {
+  "building_name" : "915 CAYUGA AVE",
   "parcel_s" : "6954/039"
 }
 , {
-  "parcel_s" : "0327/005"
+  "building_name" : "Retail",
+  "parcel_s" : "0327/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "66.5"
 }
 , {
-  "parcel_s" : "3721/023"
+  "building_name" : "Adolph Gasser Retail store",
+  "parcel_s" : "3721/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "22.2"
 }
 , {
-  "parcel_s" : "4082/005"
+  "building_name" : "Brian Cruz",
+  "parcel_s" : "4082/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "14.7"
 }
 , {
+  "building_name" : "816 WASHINGTON ST",
   "parcel_s" : "0193/013"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "2405/037"
+  "building_name" : "Bank of America Parkside 00318-0000258",
+  "parcel_s" : "2405/037",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "30.5"
 }
 , {
   "_2014_energy_star_score" : "56",
-  "parcel_s" : "0938/016"
+  "building_name" : "La Luna Inn",
+  "parcel_s" : "0938/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "75"
 }
 , {
   "_2014_energy_star_score" : "39",
-  "parcel_s" : "5216/028"
+  "building_name" : "CitiScape - 1501-1599 Custer Avenue",
+  "parcel_s" : "5216/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "217.8"
 }
 , {
   "_2014_energy_star_score" : "81",
-  "parcel_s" : "0260/003"
+  "building_name" : "Shanghai Commercial Bank Building",
+  "parcel_s" : "0260/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "90.3"
 }
 , {
-  "parcel_s" : "0142/005"
+  "building_name" : "924 SANSOME ST",
+  "parcel_s" : "0142/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "44.7"
 }
 , {
+  "building_name" : "Chip Factory",
   "parcel_s" : "3958/001B"
 }
 , {
   "_2014_energy_star_score" : "52",
-  "parcel_s" : "5414/031"
+  "building_name" : "5487-SAN FRANCISCO, CA",
+  "parcel_s" : "5414/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "109.3"
 }
 , {
+  "building_name" : "110 THE EMBARCADERO",
   "parcel_s" : "3715/002"
 }
 , {
   "_2014_energy_star_score" : "60",
-  "parcel_s" : "3707/005"
+  "building_name" : "S&B",
+  "parcel_s" : "3707/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.4"
 }
 , {
+  "building_name" : "840 FOLSOM ST",
   "parcel_s" : "3733/018"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "3736/086"
+  "building_name" : "Descalso Howard St Family L.P.",
+  "parcel_s" : "3736/086",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "48.5"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "0227/048"
+  "building_name" : "East West Bank at 555 Montgomery St.",
+  "parcel_s" : "0227/048",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "719.2"
 }
 , {
+  "building_name" : "875 OFARRELL ST",
   "parcel_s" : "0717/014"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "3707/019"
+  "building_name" : "San Francisco Planning and Urban Research",
+  "parcel_s" : "3707/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "26.6"
 }
 , {
-  "parcel_s" : "0717/015"
+  "building_name" : "Great American Music Hall",
+  "parcel_s" : "0717/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "67.3"
 }
 , {
-  "parcel_s" : "1434/046"
+  "building_name" : "SAN FRANCISCO TOYOTA SALES DEPT.",
+  "parcel_s" : "1434/046",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33.4"
 }
 , {
-  "parcel_s" : "3756/037"
+  "building_name" : "Mixonic",
+  "parcel_s" : "3756/037",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "28.3"
 }
 , {
-  "parcel_s" : "5981/011"
+  "building_name" : "NEMS - San Bruno",
+  "parcel_s" : "5981/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "83.8"
 }
 , {
   "_2014_energy_star_score" : "70",
-  "parcel_s" : "0618/002"
+  "building_name" : "Van Ness Capital Group LLC",
+  "parcel_s" : "0618/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "57.2"
 }
 , {
-  "parcel_s" : "0267/011"
+  "building_name" : "KINGS BLDG",
+  "parcel_s" : "0267/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "61.2"
 }
 , {
+  "building_name" : "352 OCEAN AVE",
   "parcel_s" : "3212/023"
 }
 , {
-  "parcel_s" : "5596/038"
+  "building_name" : "1715 - 1745 CORTLAND AVE",
+  "parcel_s" : "5596/038",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "47.8"
 }
 , {
   "_2014_energy_star_score" : "61",
-  "parcel_s" : "0177/015"
+  "building_name" : "JPMorgan Chase-Grant Ave",
+  "parcel_s" : "0177/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "60.8"
 }
 , {
-  "parcel_s" : "0306/007B"
+  "building_name" : "GEARY ST",
+  "parcel_s" : "0306/007B",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "50.5"
 }
 , {
+  "building_name" : "945 FRONT ST",
   "parcel_s" : "0136/002"
 }
 , {
-  "parcel_s" : "0284/001"
+  "building_name" : "The Family Club",
+  "parcel_s" : "0284/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "108"
 }
 , {
+  "building_name" : "Mission Motors",
   "parcel_s" : "3758/131"
 }
 , {
+  "building_name" : "1595 FAIRFAX AVE",
   "parcel_s" : "5242/016"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0298/008"
+  "building_name" : "The Andrews Hotel",
+  "parcel_s" : "0298/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "140.8"
 }
 , {
+  "building_name" : "649 GREEN ST",
   "parcel_s" : "0130/039"
 }
 , {
+  "building_name" : "1595 INDIANA ST",
   "parcel_s" : "4317/018"
 }
 , {
-  "parcel_s" : "3927/004"
+  "building_name" : "None",
+  "parcel_s" : "3927/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "189.7"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "0355/003"
+  "building_name" : "1212 Market/11 Grove",
+  "parcel_s" : "0355/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "39.9"
 }
 , {
   "_2014_energy_star_score" : "79",
-  "parcel_s" : "0261/010A"
+  "building_name" : "351 California Street",
+  "parcel_s" : "0261/010A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "564.2"
 }
 , {
-  "parcel_s" : "3707/014"
+  "building_name" : "79 New Montgomery, LLC",
+  "parcel_s" : "3707/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "533.7"
 }
 , {
-  "parcel_s" : "0718/021"
+  "building_name" : "950 Van Ness Avenue, LLC",
+  "parcel_s" : "0718/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "94.7"
 }
 , {
+  "building_name" : "1215 MICHIGAN ST",
   "parcel_s" : "4241/004"
 }
 , {
-  "parcel_s" : "0313/007"
+  "building_name" : "23 Grant Avenue",
+  "parcel_s" : "0313/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "94"
 }
 , {
-  "parcel_s" : "9900/035"
+  "building_name" : "Pier 35",
+  "parcel_s" : "9900/035",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "21.1"
 }
 , {
-  "parcel_s" : "3707/006"
+  "building_name" : "Alexander Book Company",
+  "parcel_s" : "3707/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.8"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "3733/024"
+  "building_name" : "868 FOLSOM ST",
+  "parcel_s" : "3733/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "36.9"
 }
 , {
   "_2014_energy_star_score" : "48",
-  "parcel_s" : "2023/021"
+  "building_name" : "Noriega Capital Group LLC",
+  "parcel_s" : "2023/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "40.1"
 }
 , {
-  "parcel_s" : "6574/001B"
+  "building_name" : "3140 MISSION ST",
+  "parcel_s" : "6574/001B",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.8"
 }
 , {
+  "building_name" : "815 TENNESSEE ST",
   "parcel_s" : "4059/001B"
 }
 , {
   "_2014_energy_star_score" : "19",
-  "parcel_s" : "3986/014"
+  "building_name" : "Robert Mizono Studios",
+  "parcel_s" : "3986/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "48.3"
 }
 , {
   "_2014_energy_star_score" : "62",
-  "parcel_s" : "0853/006"
+  "building_name" : "Jews for Jesus",
+  "parcel_s" : "0853/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "42.3"
 }
 , {
   "_2014_energy_star_score" : "81",
-  "parcel_s" : "1355/011"
+  "building_name" : "Congregation Emanu-El",
+  "parcel_s" : "1355/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "209.6"
 }
 , {
+  "building_name" : "300 Grant",
   "parcel_s" : "0287/014"
 }
 , {
+  "building_name" : "2 Stockton",
   "parcel_s" : "0328/002"
 }
 , {
-  "parcel_s" : "3756/002"
+  "building_name" : "312 8th Street",
+  "parcel_s" : "3756/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "14.5"
 }
 , {
+  "building_name" : "Westin San Francisco Market Street",
   "parcel_s" : "3706/074"
 }
 , {
+  "building_name" : "1760 VAN NESS AVE",
   "parcel_s" : "0622/013"
 }
 , {
+  "building_name" : "507 CLEMENT ST",
   "parcel_s" : "1438/038"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "9900/026"
+  "building_name" : "Pier 26",
+  "parcel_s" : "9900/026",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "38.3"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "0088/020"
+  "building_name" : "Maybeck Building",
+  "parcel_s" : "0088/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "47.7"
 }
 , {
+  "building_name" : "Brondello Building",
   "parcel_s" : "4006/010"
 }
 , {
+  "building_name" : "1555 Galvez Ave",
   "parcel_s" : "5254/020"
 }
 , {
-  "parcel_s" : "5369/063"
+  "building_name" : "Elmira",
+  "parcel_s" : "5369/063",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25.3"
 }
 , {
   "_2014_energy_star_score" : "74",
-  "parcel_s" : "0291/001"
+  "building_name" : "1 Sutter Street",
+  "parcel_s" : "0291/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "123.6"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "0305/009"
+  "building_name" : "Hotel Adagio - Autograph Collection",
+  "parcel_s" : "0305/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "518"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "4346/002"
+  "building_name" : "Hearst City Plant",
+  "parcel_s" : "4346/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "91.4"
 }
 , {
   "_2014_energy_star_score" : "44",
-  "parcel_s" : "1517/037"
+  "building_name" : "6333 GEARY BLVD",
+  "parcel_s" : "1517/037",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "127.6"
 }
 , {
+  "building_name" : "2000 Oakdale Ave",
   "parcel_s" : "5315/051"
 }
 , {
+  "building_name" : "2488 MISSION ST",
   "parcel_s" : "3609/015"
 }
 , {
+  "building_name" : "2130 FULTON ST",
   "parcel_s" : "1145/003"
 }
 , {
   "_2014_energy_star_score" : "74",
-  "parcel_s" : "0689/200"
+  "building_name" : "1314 POST ST",
+  "parcel_s" : "0689/200",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "74.6"
 }
 , {
   "_2014_energy_star_score" : "80",
-  "parcel_s" : "0755/003"
+  "building_name" : "1320 GOLDEN GATE AVE",
+  "parcel_s" : "0755/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "11.8"
 }
 , {
+  "building_name" : "2660 SAN BRUNO AVE",
   "parcel_s" : "5982/003A"
 }
 , {
+  "building_name" : "530 5TH ST",
   "parcel_s" : "3778/001B"
 }
 , {
+  "building_name" : "1250 TENNESSEE ST",
   "parcel_s" : "4171/020"
 }
 , {
-  "parcel_s" : "0294/008"
+  "building_name" : "228-240 Post SF",
+  "parcel_s" : "0294/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "238.4"
 }
 , {
+  "building_name" : "Montgomery Building Inc.",
   "parcel_s" : "0208/026"
 }
 , {
+  "building_name" : "Buena Vista Motor Inn",
   "parcel_s" : "0504/012"
 }
 , {
   "_2014_energy_star_score" : "66",
-  "parcel_s" : "3721/071"
+  "building_name" : "121 2nd Street",
+  "parcel_s" : "3721/071",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "182.5"
 }
 , {
-  "parcel_s" : "3513/001"
+  "building_name" : "1 MCCOPPIN ST",
+  "parcel_s" : "3513/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1370.8"
 }
 , {
+  "building_name" : "635 PINE ST",
   "parcel_s" : "0271/023"
 }
 , {
+  "building_name" : "415 Jackson",
   "parcel_s" : "0196/027"
 }
 , {
+  "building_name" : "1453 MISSION ST",
   "parcel_s" : "3510/057"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "0675/051"
+  "building_name" : "Buchanan Plaza",
+  "parcel_s" : "0675/051",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "6.5"
 }
 , {
-  "parcel_s" : "3784/017"
+  "building_name" : "787 Brannan Street",
+  "parcel_s" : "3784/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.9"
 }
 , {
+  "building_name" : "910 HARRISON ST",
   "parcel_s" : "3753/056"
 }
 , {
-  "parcel_s" : "4025/003A"
+  "building_name" : "Marco Fine Furniture",
+  "parcel_s" : "4025/003A",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "19.6"
 }
 , {
-  "parcel_s" : "4107/022"
+  "building_name" : "Tennessee Roundhouse LLC",
+  "parcel_s" : "4107/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "22.1"
 }
 , {
   "_2014_energy_star_score" : "70",
-  "parcel_s" : "3708/007"
+  "building_name" : "76 1ST ST",
+  "parcel_s" : "3708/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "39.7"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "0130/001"
+  "building_name" : "CA5-120 (Columbus Branch)",
+  "parcel_s" : "0130/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "22.3"
 }
 , {
   "_2014_energy_star_score" : "37",
-  "parcel_s" : "0164/002"
+  "building_name" : "847 Sansome",
+  "parcel_s" : "0164/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "74.5"
 }
 , {
   "_2014_energy_star_score" : "41",
-  "parcel_s" : "0644/014"
+  "building_name" : "JPMorgan Chase - WM1405 Polk",
+  "parcel_s" : "0644/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "60.9"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "3708/040"
+  "building_name" : "49 Stevenson",
+  "parcel_s" : "3708/040",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "536.5"
 }
 , {
+  "building_name" : "99 BAY SHORE BLVD",
   "parcel_s" : "4343/026"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3973/001"
+  "building_name" : "2401 17th Street",
+  "parcel_s" : "3973/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "43.9"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "0288/001"
+  "building_name" : "155 Montgomery",
+  "parcel_s" : "0288/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "202.9"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "3912/003"
+  "building_name" : "25 Division",
+  "parcel_s" : "3912/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "172.9"
 }
 , {
+  "building_name" : "111 STEVENSON ST",
   "parcel_s" : "3707/044"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "0309/024"
+  "building_name" : "251 Post Street",
+  "parcel_s" : "0309/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "65.9"
 }
 , {
   "_2014_energy_star_score" : "8",
-  "parcel_s" : "0282/022"
+  "building_name" : "San Francisco-Canterbury",
+  "parcel_s" : "0282/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "414.5"
 }
 , {
+  "building_name" : "295 BAY ST",
   "parcel_s" : "0040/017"
 }
 , {
+  "building_name" : "444 TOWNSEND ST",
   "parcel_s" : "3785/004A"
 }
 , {
-  "parcel_s" : "4015/003"
+  "building_name" : "2650 18TH ST",
+  "parcel_s" : "4015/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "30.5"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "3721/001"
+  "building_name" : "100 First Plaza",
+  "parcel_s" : "3721/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1694.7"
 }
 , {
-  "parcel_s" : "3755/044"
+  "building_name" : "20 Heron Building",
+  "parcel_s" : "3755/044",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.8"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "0230/028"
+  "building_name" : "One Embarcadero Center",
+  "parcel_s" : "0230/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "5862.1"
 }
 , {
   "_2014_energy_star_score" : "15",
-  "parcel_s" : "0316/010"
+  "building_name" : "420 Taylor",
+  "parcel_s" : "0316/010",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "422.6"
 }
 , {
+  "building_name" : "2707 PINE ST",
   "parcel_s" : "1049/034"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "3780/078"
+  "building_name" : "083-San Francisco",
+  "parcel_s" : "3780/078",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "102.2"
 }
 , {
+  "building_name" : "1155 INDIANA ST",
   "parcel_s" : "4170/009"
 }
 , {
+  "building_name" : "2121 OAKDALE AVE",
   "parcel_s" : "5587/005"
 }
 , {
+  "building_name" : "500 MENDELL ST",
   "parcel_s" : "5241/018"
 }
 , {
+  "building_name" : "1900 19TH AVE",
   "parcel_s" : "2116/028"
 }
 , {
-  "parcel_s" : "3547/002"
+  "building_name" : "1850 MISSION ST",
+  "parcel_s" : "3547/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "41.4"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "4083/004"
+  "building_name" : "3001 19TH ST",
+  "parcel_s" : "4083/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "36.1"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "0743/204"
+  "building_name" : "815 EDDY ST",
+  "parcel_s" : "0743/204",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "40.6"
 }
 , {
+  "building_name" : "1410 TENNESSEE ST",
   "parcel_s" : "4247/003"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "3701/059"
+  "building_name" : "Hotel Whitcomb",
+  "parcel_s" : "3701/059",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "791.6"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "3721/089"
+  "building_name" : "101 Second St",
+  "parcel_s" : "3721/089",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1500.6"
 }
 , {
+  "building_name" : "1201 FOLSOM ST",
   "parcel_s" : "3756/001"
 }
 , {
+  "building_name" : "1144 HARRISON ST",
   "parcel_s" : "3755/023"
 }
 , {
-  "parcel_s" : "3593/001"
+  "building_name" : "2300 Harrison Street",
+  "parcel_s" : "3593/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "282.8"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "0236/019"
+  "building_name" : "150 California Street",
+  "parcel_s" : "0236/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1104.9"
 }
 , {
+  "building_name" : "1000 25TH ST",
   "parcel_s" : "4247/002"
 }
 , {
+  "building_name" : "Smart & Final",
   "parcel_s" : "1438/029"
 }
 , {
   "_2014_energy_star_score" : "73",
-  "parcel_s" : "3788/038"
+  "building_name" : "Six Thirty-Four Second Street",
+  "parcel_s" : "3788/038",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "236.8"
 }
 , {
+  "building_name" : "575 6TH ST",
   "parcel_s" : "3778/005"
 }
 , {
-  "parcel_s" : "1449/022"
+  "building_name" : "GGCC Building",
+  "parcel_s" : "1449/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "29.9"
 }
 , {
+  "building_name" : "Avakian 1",
   "parcel_s" : "3548/035"
 }
 , {
-  "parcel_s" : "1449/025"
+  "building_name" : "YMCA Richmond",
+  "parcel_s" : "1449/025",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33"
 }
 , {
+  "building_name" : "100 Buchanan St",
   "parcel_s" : "0870/003"
 }
 , {
+  "building_name" : "1230 PINE ST",
   "parcel_s" : "0251/009"
 }
 , {
   "_2014_energy_star_score" : "19",
-  "parcel_s" : "5212/026"
+  "building_name" : "CitiScape - 1500-1598 Custer Avenue",
+  "parcel_s" : "5212/026",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "488.2"
 }
 , {
+  "building_name" : "Bimbo's 365 Club",
   "parcel_s" : "0050/004"
 }
 , {
+  "building_name" : "Central Tower",
   "parcel_s" : "3706/001"
 }
 , {
-  "parcel_s" : "7295/014"
+  "building_name" : "333 Eucalyptus dr",
+  "parcel_s" : "7295/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "439.1"
 }
 , {
+  "building_name" : "577 2ND ST",
   "parcel_s" : "3774/031"
 }
 , {
+  "building_name" : "655 Beach St.",
   "parcel_s" : "0024/025"
 }
 , {
+  "building_name" : "1001 Van Ness Avenue",
   "parcel_s" : "0714/016"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "0289/005"
+  "building_name" : "100 Montgomery",
+  "parcel_s" : "0289/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1422.5"
 }
 , {
+  "building_name" : "117 Mission Street",
   "parcel_s" : "3717/022"
 }
 , {
-  "parcel_s" : "4288/005"
+  "building_name" : "1740 Cesar Chavez",
+  "parcel_s" : "4288/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "189.7"
 }
 , {
   "_2014_energy_star_score" : "22",
-  "parcel_s" : "0309/011"
+  "building_name" : "212 Stockton Street",
+  "parcel_s" : "0309/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "207.1"
 }
 , {
+  "building_name" : "165 SUTTER ST",
   "parcel_s" : "0292/015"
 }
 , {
-  "parcel_s" : "3927/004"
+  "building_name" : "None",
+  "parcel_s" : "3927/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "189.7"
 }
 , {
   "_2014_energy_star_score" : "27",
-  "parcel_s" : "0330/023"
+  "building_name" : "Hotel Abri",
+  "parcel_s" : "0330/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "429.9"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "0335/016"
+  "building_name" : "HI - San Francisco City Center",
+  "parcel_s" : "0335/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "110"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3504/044"
+  "building_name" : "1661 MARKET ST",
+  "parcel_s" : "3504/044",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "53.3"
 }
 , {
+  "building_name" : "20 2ND ST",
   "parcel_s" : "3707/002"
 }
 , {
+  "building_name" : "2 TURK ST",
   "parcel_s" : "0340/004"
 }
 , {
   "_2014_energy_star_score" : "81",
-  "parcel_s" : "3717/002"
+  "building_name" : "Spear Street Sapphire LLC",
+  "parcel_s" : "3717/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "66.4"
 }
 , {
+  "building_name" : "583 HOWARD ST",
   "parcel_s" : "3736/099"
 }
 , {
+  "building_name" : "127 SUTTER ST",
   "parcel_s" : "0292/016"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "0166/001"
+  "building_name" : "747 Front Street",
+  "parcel_s" : "0166/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "183.4"
 }
 , {
+  "building_name" : "972 MARKET ST",
   "parcel_s" : "0342/004"
 }
 , {
+  "building_name" : "945 MARKET ST",
   "parcel_s" : "3704/240"
 }
 , {
+  "building_name" : "541 8TH ST",
   "parcel_s" : "3780/008"
 }
 , {
+  "building_name" : "717 BATTERY ST",
   "parcel_s" : "0165/022"
 }
 , {
+  "building_name" : "444 BRYANT ST",
   "parcel_s" : "3763/015"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "3615/016"
+  "building_name" : "2595 Mission",
+  "parcel_s" : "3615/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "65.9"
 }
 , {
   "_2014_energy_star_score" : "80",
-  "parcel_s" : "0329/001"
+  "building_name" : "800 Market Street",
+  "parcel_s" : "0329/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "260.9"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "3722/068"
+  "building_name" : "Coast Counties - 657 Mission",
+  "parcel_s" : "3722/068",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "163.2"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "0175/030"
+  "building_name" : "731 Sansome LLC",
+  "parcel_s" : "0175/030",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "123.8"
 }
 , {
-  "parcel_s" : "0344/005"
+  "building_name" : "166 Golden Gate Ave",
+  "parcel_s" : "0344/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "40.6"
 }
 , {
-  "parcel_s" : "0691/005"
+  "building_name" : "1200 Van Ness",
+  "parcel_s" : "0691/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "165.3"
 }
 , {
+  "building_name" : "3950 19TH AVE",
   "parcel_s" : "7080/009"
 }
 , {
   "_2014_energy_star_score" : "97",
-  "parcel_s" : "0309/006"
+  "building_name" : "140 Geary Street",
+  "parcel_s" : "0309/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "127.8"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "5583/003"
+  "building_name" : "570 BARNEVELD AVE",
+  "parcel_s" : "5583/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "50.8"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3508/024"
+  "building_name" : "1360 Mission",
+  "parcel_s" : "3508/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "85.5"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "0240/007"
+  "building_name" : "580 California Street",
+  "parcel_s" : "0240/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "302.9"
 }
 , {
+  "building_name" : "Urban School",
   "parcel_s" : "1232/042"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "3722/067"
+  "building_name" : "667",
+  "parcel_s" : "3722/067",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "130.4"
 }
 , {
+  "building_name" : "3727 Buchanan St.",
   "parcel_s" : "0445A/004"
 }
 , {
   "_2014_energy_star_score" : "1",
-  "parcel_s" : "0237/001"
+  "building_name" : "303 Sacramento Street",
+  "parcel_s" : "0237/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "142"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "3592/015"
+  "building_name" : "500 Treat",
+  "parcel_s" : "3592/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "116.2"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0288/031"
+  "building_name" : "101 Montgomery Street Building",
+  "parcel_s" : "0288/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1475"
 }
 , {
   "_2014_energy_star_score" : "2",
-  "parcel_s" : "3727/002"
+  "building_name" : "140 7TH ST",
+  "parcel_s" : "3727/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "190.6"
 }
 , {
+  "building_name" : "744 MARKET ST",
   "parcel_s" : "0312/006"
 }
 , {
+  "building_name" : "255 SUTTER ST",
   "parcel_s" : "0293/009"
 }
 , {
   "_2014_energy_star_score" : "24",
-  "parcel_s" : "3784/088"
+  "building_name" : "121 - San Francisco Store",
+  "parcel_s" : "3784/088",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "99.7"
 }
 , {
+  "building_name" : "1 DORMAN AVE",
   "parcel_s" : "5586/001"
 }
 , {
   "_2014_energy_star_score" : "83",
-  "parcel_s" : "0112/008"
+  "building_name" : "150 Green Street Associates, LP",
+  "parcel_s" : "0112/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "78.4"
 }
 , {
-  "parcel_s" : "3899/001"
+  "building_name" : "Pier 50 - Shed C",
+  "parcel_s" : "3899/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "163.2"
 }
 , {
+  "building_name" : "890 TENNESSEE ST",
   "parcel_s" : "4060/001"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "3708/095"
+  "building_name" : "560 Mission Street",
+  "parcel_s" : "3708/095",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2884.2"
 }
 , {
-  "parcel_s" : "0270/037"
+  "building_name" : "R1005 CO 430 Bush",
+  "parcel_s" : "0270/037",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "513.7"
 }
 , {
   "_2014_energy_star_score" : "91",
-  "parcel_s" : "3708/056"
+  "building_name" : "525 Market Street",
+  "parcel_s" : "3708/056",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "4542.9"
 }
 , {
   "_2014_energy_star_score" : "55",
-  "parcel_s" : "3722/007"
+  "building_name" : "149 New Montgomery",
+  "parcel_s" : "3722/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "339.5"
 }
 , {
-  "parcel_s" : "0262/020"
+  "building_name" : "100 Pine",
+  "parcel_s" : "0262/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2113.5"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "4879/017"
+  "building_name" : "1415 Bancroft",
+  "parcel_s" : "4879/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "9.1"
 }
 , {
+  "building_name" : "1045 BRYANT ST",
   "parcel_s" : "3781/001A"
 }
 , {
   "_2014_energy_star_score" : "61",
-  "parcel_s" : "3780/079"
+  "building_name" : "945 BRYANT ST",
+  "parcel_s" : "3780/079",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "254.4"
 }
 , {
   "_2014_energy_star_score" : "72",
-  "parcel_s" : "3794/021"
+  "building_name" : "139 Townsend",
+  "parcel_s" : "3794/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "257.9"
 }
 , {
-  "parcel_s" : "0667/011"
+  "building_name" : "1430. 1450, 1480 Van Ness Ave",
+  "parcel_s" : "0667/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "39.4"
 }
 , {
+  "building_name" : "100 HARRISON ST",
   "parcel_s" : "3745/009"
 }
 , {
+  "building_name" : "1522 BUSH ST",
   "parcel_s" : "0666/006"
 }
 , {
   "_2014_energy_star_score" : "23",
-  "parcel_s" : "2901B/027"
+  "building_name" : "Mollie Stones Market #8",
+  "parcel_s" : "2901B/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "389.2"
 }
 , {
+  "building_name" : "646 WASHINGTON ST",
   "parcel_s" : "0195/008"
 }
 , {
   "_2014_energy_star_score" : "39",
-  "parcel_s" : "3958/001G"
+  "building_name" : "398 KANSAS ST",
+  "parcel_s" : "3958/001G",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "78.2"
 }
 , {
+  "building_name" : "39 STOCKTON ST",
   "parcel_s" : "0327/004"
 }
 , {
-  "parcel_s" : "0742/015"
+  "building_name" : "700-710 Van Ness",
+  "parcel_s" : "0742/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "31.5"
 }
 , {
   "_2014_energy_star_score" : "14",
-  "parcel_s" : "5250/014"
+  "building_name" : "1970 Innes",
+  "parcel_s" : "5250/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "146.5"
 }
 , {
+  "building_name" : "625 PINE ST",
   "parcel_s" : "0271/001B"
 }
 , {
+  "building_name" : "350 8TH ST",
   "parcel_s" : "3756/003"
 }
 , {
+  "building_name" : "2725 OAKDALE AVE",
   "parcel_s" : "5583/018"
 }
 , {
   "_2014_energy_star_score" : "79",
-  "parcel_s" : "0238/002"
+  "building_name" : "300 CALIFORNIA ST",
+  "parcel_s" : "0238/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "668.9"
 }
 , {
-  "parcel_s" : "4347A/003"
+  "building_name" : "08039-Sf-evans",
+  "parcel_s" : "4347A/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "52.6"
 }
 , {
-  "parcel_s" : "1780/045"
+  "building_name" : "Sunset Supermarket",
+  "parcel_s" : "1780/045",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "190.6"
 }
 , {
   "_2014_energy_star_score" : "65",
-  "parcel_s" : "3905/003"
+  "building_name" : "Byer California - 2460 Alameda St.",
+  "parcel_s" : "3905/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "37"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "3717/021"
+  "building_name" : "122610 - Spear Street Corridor",
+  "parcel_s" : "3717/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1137.3"
 }
 , {
+  "building_name" : "435 PACIFIC AVE",
   "parcel_s" : "0175/028"
 }
 , {
-  "parcel_s" : "0309/028"
+  "building_name" : "111 Maiden Lane",
+  "parcel_s" : "0309/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "333.4"
 }
 , {
+  "building_name" : "88 MISSOURI ST",
   "parcel_s" : "3951/005"
 }
 , {
+  "building_name" : "Swinerton Headquarters",
   "parcel_s" : "3787/024"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "3717/001"
+  "building_name" : "100 Spear Street",
+  "parcel_s" : "3717/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "988.1"
 }
 , {
+  "building_name" : "1188 FRANKLIN ST",
   "parcel_s" : "0714/017"
 }
 , {
+  "building_name" : "748 MISSION ST",
   "parcel_s" : "3706/068"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3504/047"
+  "building_name" : "Gough",
+  "parcel_s" : "3504/047",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "75.2"
 }
 , {
-  "parcel_s" : "0227/014"
+  "building_name" : "660 Sacramento St./657 Commercial St.",
+  "parcel_s" : "0227/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "37.9"
 }
 , {
   "_2014_energy_star_score" : "12",
-  "parcel_s" : "0236/018"
+  "building_name" : "256 FRONT ST",
+  "parcel_s" : "0236/018",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "520.7"
 }
 , {
+  "building_name" : "220 MCALLISTER ST",
   "parcel_s" : "0347/004"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "3741/032"
+  "building_name" : "Spear Street Terrace",
+  "parcel_s" : "3741/032",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1188"
 }
 , {
+  "building_name" : "C&W Sakti 260 California",
   "parcel_s" : "0237/011"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "0084/009"
+  "building_name" : "Interland - 155 Greenwich Street",
+  "parcel_s" : "0084/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "797.9"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0173/001"
+  "building_name" : "600 Battery Street",
+  "parcel_s" : "0173/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "423.2"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "3722/020"
+  "building_name" : "Millennium Play",
+  "parcel_s" : "3722/020",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "146.1"
 }
 , {
-  "parcel_s" : "3506/004"
+  "building_name" : "SF Honda",
+  "parcel_s" : "3506/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "180.4"
 }
 , {
-  "parcel_s" : "3702/001"
+  "building_name" : "6 7TH ST",
+  "parcel_s" : "3702/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "94.1"
 }
 , {
+  "building_name" : "1330 FITZGERALD AVENUE",
   "parcel_s" : "4912/006"
 }
 , {
+  "building_name" : "1699 Van Ness",
   "parcel_s" : "0642/001"
 }
 , {
   "_2014_energy_star_score" : "94",
-  "parcel_s" : "3786/016"
+  "building_name" : "370 TOWNSEND ST",
+  "parcel_s" : "3786/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "48.2"
 }
 , {
   "_2014_energy_star_score" : "28",
-  "parcel_s" : "3787/028"
+  "building_name" : "280 TOWNSEND ST",
+  "parcel_s" : "3787/028",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "123.8"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "0029/003"
+  "building_name" : "2620 Jones St",
+  "parcel_s" : "0029/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "542.8"
 }
 , {
-  "parcel_s" : "3968/001"
+  "building_name" : "440 ALABAMA ST",
+  "parcel_s" : "3968/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "60"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "0670/012"
+  "building_name" : "1244 Sutter, LLC",
+  "parcel_s" : "0670/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "4.6"
 }
 , {
+  "building_name" : "K&H California",
   "parcel_s" : "0310/003"
 }
 , {
   "_2014_energy_star_score" : "77",
-  "parcel_s" : "5203/041"
+  "building_name" : "Plant - 300 Newhall Street",
+  "parcel_s" : "5203/041",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "137.5"
 }
 , {
   "_2014_energy_star_score" : "83",
-  "parcel_s" : "0204/021"
+  "building_name" : "One Maritime Plaza",
+  "parcel_s" : "0204/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "3216.9"
 }
 , {
+  "building_name" : "650 California Street",
   "parcel_s" : "0241/025"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "0238/008"
+  "building_name" : "Union Bank 127 350 California",
+  "parcel_s" : "0238/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1197"
 }
 , {
   "_2014_energy_star_score" : "9",
-  "parcel_s" : "1071/001"
+  "building_name" : "3 MASONIC AVE",
+  "parcel_s" : "1071/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "310.9"
 }
 , {
+  "building_name" : "1137 FOLSOM ST",
   "parcel_s" : "3755/097"
 }
 , {
   "_2014_energy_star_score" : "57",
-  "parcel_s" : "0504/011"
+  "building_name" : "1501 LOMBARD ST",
+  "parcel_s" : "0504/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "71.2"
 }
 , {
+  "building_name" : "520 4TH ST",
   "parcel_s" : "3777/003"
 }
 , {
+  "building_name" : "45 RAUSCH ST",
   "parcel_s" : "3730/082"
 }
 , {
+  "building_name" : "240 KEARNY ST",
   "parcel_s" : "0288/014"
 }
 , {
-  "parcel_s" : "1068/002"
+  "building_name" : "2950 GEARY BLVD",
+  "parcel_s" : "1068/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "27.4"
 }
 , {
+  "building_name" : "2748 MISSION ST",
   "parcel_s" : "3643/006"
 }
 , {
-  "parcel_s" : "3525/001"
+  "building_name" : "1301 HARRISON ST",
+  "parcel_s" : "3525/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "27.7"
 }
 , {
   "_2014_energy_star_score" : "2",
-  "parcel_s" : "0295/005"
+  "building_name" : "340 POST ST",
+  "parcel_s" : "0295/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "215.8"
 }
 , {
-  "parcel_s" : "0719/001"
+  "building_name" : "999 Van Ness Ave",
+  "parcel_s" : "0719/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "45"
 }
 , {
   "_2014_energy_star_score" : "80",
-  "parcel_s" : "3722/081"
+  "building_name" : "W Hotel - San Francisco",
+  "parcel_s" : "3722/081",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1540.5"
 }
 , {
+  "building_name" : "La Salle Industrial Park",
   "parcel_s" : "5284A/008"
 }
 , {
-  "parcel_s" : "0297/007"
+  "building_name" : "Bohemian Club",
+  "parcel_s" : "0297/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "511.9"
 }
 , {
+  "building_name" : "Prescott Hotel",
   "parcel_s" : "0306/022"
 }
 , {
   "_2014_energy_star_score" : "83",
-  "parcel_s" : "1458/041"
+  "building_name" : "Holy Virgin Cathedral",
+  "parcel_s" : "1458/041",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "25"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3956/004"
+  "building_name" : "Winton Properties",
+  "parcel_s" : "3956/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "33"
 }
 , {
-  "parcel_s" : "0165/017"
+  "building_name" : "735 BATTERY ST",
+  "parcel_s" : "0165/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "84.9"
 }
 , {
+  "building_name" : "3330 GEARY BLVD",
   "parcel_s" : "1064/060"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "3708/055"
+  "building_name" : "50 1ST ST",
+  "parcel_s" : "3708/055",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "282.6"
 }
 , {
-  "parcel_s" : "0671/001"
+  "building_name" : "1355-1359 Van Ness",
+  "parcel_s" : "0671/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "262.5"
 }
 , {
-  "parcel_s" : "4324/002"
+  "building_name" : "1950-2190 Cesar Chavez",
+  "parcel_s" : "4324/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "202.4"
 }
 , {
+  "building_name" : "2750 VAN NESS AVE",
   "parcel_s" : "0502/005G"
 }
 , {
   "_2014_energy_star_score" : "19",
-  "parcel_s" : "4224/045"
+  "building_name" : "San Francisco Food Bank",
+  "parcel_s" : "4224/045",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "231.7"
 }
 , {
   "_2014_energy_star_score" : "95",
-  "parcel_s" : "0239/026"
+  "building_name" : "199001 420 Montgomery Street",
+  "parcel_s" : "0239/026",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1276.8"
 }
 , {
   "_2014_energy_star_score" : "94",
-  "parcel_s" : "3737/030"
+  "building_name" : "The Orrick Building",
+  "parcel_s" : "3737/030",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1856"
 }
 , {
   "_2014_energy_star_score" : "39",
-  "parcel_s" : "1064/032"
+  "building_name" : "3360 Geary Blvd",
+  "parcel_s" : "1064/032",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "147.6"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3704/078"
+  "building_name" : "995 MARKET ST",
+  "parcel_s" : "3704/078",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "91.6"
 }
 , {
+  "building_name" : "351 9TH ST",
   "parcel_s" : "3756/010"
 }
 , {
-  "parcel_s" : "1433/009"
+  "building_name" : "3700 GEARY BLVD",
+  "parcel_s" : "1433/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "121.9"
 }
 , {
+  "building_name" : "401 TARAVAL ST",
   "parcel_s" : "2411/001"
 }
 , {
+  "building_name" : "Hotel Frank",
   "parcel_s" : "0307/007"
 }
 , {
+  "building_name" : "2551 MISSION ST",
   "parcel_s" : "3615/023"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0260/006"
+  "building_name" : "332 PINE ST",
+  "parcel_s" : "0260/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "102.2"
 }
 , {
   "_2014_energy_star_score" : "49",
-  "parcel_s" : "0341/009"
+  "building_name" : "One Hallidie Plaza",
+  "parcel_s" : "0341/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "376.4"
 }
 , {
-  "parcel_s" : "0646/005"
+  "building_name" : "1528 PINE ST",
+  "parcel_s" : "0646/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "76.5"
 }
 , {
+  "building_name" : "Safeway 1490",
   "parcel_s" : "3930A/002"
 }
 , {
-  "parcel_s" : "3786/015"
+  "building_name" : "Townsend Enterprises LP",
+  "parcel_s" : "3786/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "77.3"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "0111/003"
+  "building_name" : "LPF 1050 Battery",
+  "parcel_s" : "0111/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "126.7"
 }
 , {
   "_2014_energy_star_score" : "51",
-  "parcel_s" : "3706/047"
+  "building_name" : "Jamestown Premier 799 Market Street NEW",
+  "parcel_s" : "3706/047",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "950.5"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "3787/031"
+  "building_name" : "475 Brannan (excluding Suite 120 & 130)",
+  "parcel_s" : "3787/031",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1217.7"
 }
 , {
   "_2014_energy_star_score" : "19",
-  "parcel_s" : "0050/021"
+  "building_name" : "Columbus Motor Inn",
+  "parcel_s" : "0050/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "104.2"
 }
 , {
-  "parcel_s" : "0618/001"
+  "building_name" : "1835 Van Ness Avenue, LLC",
+  "parcel_s" : "0618/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "234.9"
 }
 , {
-  "parcel_s" : "0293/008"
+  "building_name" : "Grant Avenue",
+  "parcel_s" : "0293/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.9"
 }
 , {
+  "building_name" : "140 9TH ST",
   "parcel_s" : "3509/005"
 }
 , {
   "_2014_energy_star_score" : "11",
-  "parcel_s" : "0287/017"
+  "building_name" : "Bush Grant Building",
+  "parcel_s" : "0287/017",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "415.2"
 }
 , {
   "_2014_energy_star_score" : "60",
-  "parcel_s" : "4881/023"
+  "building_name" : "1600 DONNER AVE",
+  "parcel_s" : "4881/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "402.5"
 }
 , {
-  "parcel_s" : "3703/076"
+  "building_name" : "1019 Market Street",
+  "parcel_s" : "3703/076",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "151.5"
 }
 , {
+  "building_name" : "500 2ND ST",
   "parcel_s" : "3775/001"
 }
 , {
+  "building_name" : "50 Quint Street",
   "parcel_s" : "5201/001"
 }
 , {
+  "building_name" : "1555 GALVEZ AVE",
   "parcel_s" : "5254/032"
 }
 , {
-  "parcel_s" : "0294/022"
+  "building_name" : "315 SUTTER ST",
+  "parcel_s" : "0294/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "11.7"
 }
 , {
+  "building_name" : "3600 GEARY BLVD",
   "parcel_s" : "1061/018"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "3750/009"
+  "building_name" : "650 Harrison St.",
+  "parcel_s" : "3750/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "24"
 }
 , {
+  "building_name" : "391 GEARY ST",
   "parcel_s" : "0315/020"
 }
 , {
-  "parcel_s" : "0291/013"
+  "building_name" : "570 Market Street",
+  "parcel_s" : "0291/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "45.3"
 }
 , {
+  "building_name" : "220 9TH ST",
   "parcel_s" : "3518/002"
 }
 , {
+  "building_name" : "300 ALEMANY BLVD",
   "parcel_s" : "5817/006"
 }
 , {
-  "parcel_s" : "0685/043"
+  "building_name" : "1700 Post (Japan Center)",
+  "parcel_s" : "0685/043",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "219.2"
 }
 , {
   "_2014_energy_star_score" : "40",
-  "parcel_s" : "3705/039"
+  "building_name" : "Hotel Zetta",
+  "parcel_s" : "3705/039",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "475.3"
 }
 , {
   "_2014_energy_star_score" : "64",
-  "parcel_s" : "0135/003"
+  "building_name" : "Battery",
+  "parcel_s" : "0135/003",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "468.9"
 }
 , {
   "_2014_energy_star_score" : "28",
-  "parcel_s" : "3708/006"
+  "building_name" : "62 1ST ST",
+  "parcel_s" : "3708/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "276.9"
 }
 , {
   "_2014_energy_star_score" : "1",
-  "parcel_s" : "0811/022"
+  "building_name" : "150 Hayes Street",
+  "parcel_s" : "0811/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1134.5"
 }
 , {
+  "building_name" : "666 FOLSOM ST",
   "parcel_s" : "3735/013"
 }
 , {
   "_2014_energy_star_score" : "78",
-  "parcel_s" : "4316/001"
+  "building_name" : "1600 TENNESSEE ST",
+  "parcel_s" : "4316/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "49.5"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0056/007"
+  "building_name" : "55 Francisco St.",
+  "parcel_s" : "0056/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "718.7"
 }
 , {
   "_2014_energy_star_score" : "51",
-  "parcel_s" : "3722/004"
+  "building_name" : "144 Second Street",
+  "parcel_s" : "3722/004",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "154.2"
 }
 , {
+  "building_name" : "616 DIVISADERO ST",
   "parcel_s" : "1202/002J"
 }
 , {
   "_2014_energy_star_score" : "90",
-  "parcel_s" : "0261/007"
+  "building_name" : "220 Sansome",
+  "parcel_s" : "0261/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "180.5"
 }
 , {
+  "building_name" : "680 CALIFORNIA ST",
   "parcel_s" : "0241/012"
 }
 , {
   "_2014_energy_star_score" : "15",
-  "parcel_s" : "0294/011"
+  "building_name" : "Niketown",
+  "parcel_s" : "0294/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "490.3"
 }
 , {
+  "building_name" : "Bayside Plaza",
   "parcel_s" : "3715/013"
 }
 , {
-  "parcel_s" : "3785/005"
+  "building_name" : "466 Townsend, LLC",
+  "parcel_s" : "3785/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "328.2"
 }
 , {
-  "parcel_s" : "0575/015"
+  "building_name" : "2151 Van Ness Avenue, LLC",
+  "parcel_s" : "0575/015",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "31.8"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "0206/008"
+  "building_name" : "500 Sansome",
+  "parcel_s" : "0206/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "287.5"
 }
 , {
+  "building_name" : "660 CLEMENTINA ST",
   "parcel_s" : "3730/032"
 }
 , {
+  "building_name" : "184 Hooper",
   "parcel_s" : "3808/A004"
 }
 , {
-  "parcel_s" : "0594/002"
+  "building_name" : "2001 Van Ness",
+  "parcel_s" : "0594/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "44.4"
 }
 , {
   "_2014_energy_star_score" : "66",
-  "parcel_s" : "3705/052"
+  "building_name" : "72022A (SAN FRANCISCO CENTRE)",
+  "parcel_s" : "3705/052",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1500.8"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "0982/034"
+  "building_name" : "University High School",
+  "parcel_s" : "0982/034",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "118.2"
 }
 , {
   "_2014_energy_star_score" : "36",
-  "parcel_s" : "6635/055"
+  "building_name" : "Safeway 739",
+  "parcel_s" : "6635/055",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "606.1"
 }
 , {
+  "building_name" : "Hawthorne Plaza - 95 Hawthorne",
   "parcel_s" : "3735/012"
 }
 , {
+  "building_name" : "Whole Foods Market",
   "parcel_s" : "0647/012"
 }
 , {
   "_2014_energy_star_score" : "75",
-  "parcel_s" : "3708/019"
+  "building_name" : "71 Second Street AKA 85 Second Street",
+  "parcel_s" : "3708/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "529.5"
 }
 , {
+  "building_name" : "1554 VAN NESS AVE",
   "parcel_s" : "0646/012"
 }
 , {
+  "building_name" : "San Francisco Museum of Modern Art",
   "parcel_s" : "3722/078"
 }
 , {
+  "building_name" : "Sansome & Pacific Investments",
   "parcel_s" : "0175/029"
 }
 , {
+  "building_name" : "1600 Jackson",
   "parcel_s" : "0595/002"
 }
 , {
   "_2014_energy_star_score" : "83",
-  "parcel_s" : "4052/001"
+  "building_name" : "Pier 70, Bldg # 2",
+  "parcel_s" : "4052/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "10.9"
 }
 , {
+  "building_name" : "1128 MISSION ST",
   "parcel_s" : "3702/034"
 }
 , {
+  "building_name" : "2 Mint Plaza",
   "parcel_s" : "3704/079"
 }
 , {
-  "parcel_s" : "0623/002"
+  "building_name" : "SAN FRANCISCO TOYOTA VAN NESS",
+  "parcel_s" : "0623/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "41.5"
 }
 , {
-  "parcel_s" : "3510/049"
+  "building_name" : "SOMA Self Storage",
+  "parcel_s" : "3510/049",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "102.9"
 }
 , {
+  "building_name" : "Warwick San Francisco Hotel",
   "parcel_s" : "0306/012"
 }
 , {
+  "building_name" : "2301 MISSION ST",
   "parcel_s" : "3595/031"
 }
 , {
+  "building_name" : "132 HAWTHORNE ST",
   "parcel_s" : "3750/054"
 }
 , {
-  "parcel_s" : "1022/013"
+  "building_name" : "3150 CALIFORNIA ST",
+  "parcel_s" : "1022/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "40.3"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "1542/042"
+  "building_name" : "3855 GEARY BLVD",
+  "parcel_s" : "1542/042",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "29.4"
 }
 , {
   "_2014_energy_star_score" : "43",
-  "parcel_s" : "0339/013"
+  "building_name" : "226 JONES ST",
+  "parcel_s" : "0339/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "70.9"
 }
 , {
+  "building_name" : "1534 FILLMORE ST",
   "parcel_s" : "0708/013"
 }
 , {
   "_2014_energy_star_score" : "80",
-  "parcel_s" : "3775/022"
+  "building_name" : "376 Brannan St",
+  "parcel_s" : "3775/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "35.8"
 }
 , {
-  "parcel_s" : "0853/023"
+  "building_name" : "20 HAIGHT ST",
+  "parcel_s" : "0853/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "23.3"
 }
 , {
+  "building_name" : "1656 CALIFORNIA ST",
   "parcel_s" : "0643/017"
 }
 , {
+  "building_name" : "1730 VAN NESS AVE",
   "parcel_s" : "0622/019"
 }
 , {
   "_2014_energy_star_score" : "89",
-  "parcel_s" : "4083/002"
+  "building_name" : "Twentieth Street",
+  "parcel_s" : "4083/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "118.1"
 }
 , {
   "_2014_energy_star_score" : "40",
-  "parcel_s" : "2019/016"
+  "building_name" : "Safeway 985",
+  "parcel_s" : "2019/016",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "594.7"
 }
 , {
+  "building_name" : "Speyer & Schwartz",
   "parcel_s" : "3514/030"
 }
 , {
   "_2014_energy_star_score" : "37",
-  "parcel_s" : "0176/011"
+  "building_name" : "The Golden Coin Building",
+  "parcel_s" : "0176/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "140.7"
 }
 , {
+  "building_name" : "Worldco Company - 1388 Sutter",
   "parcel_s" : "0671/009"
 }
 , {
-  "parcel_s" : "0204/023"
+  "building_name" : "Four Maritime Plaza",
+  "parcel_s" : "0204/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "41.7"
 }
 , {
   "_2014_energy_star_score" : "59",
-  "parcel_s" : "3714/019"
+  "building_name" : "Hotel Vitale",
+  "parcel_s" : "3714/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "866.1"
 }
 , {
   "_2014_energy_star_score" : "82",
-  "parcel_s" : "3713/006"
+  "building_name" : "The Landmark @ One Market",
+  "parcel_s" : "3713/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2262.3"
 }
 , {
-  "parcel_s" : "3785/132"
+  "building_name" : "601 Brannan Street, LLC",
+  "parcel_s" : "3785/132",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "502.8"
 }
 , {
-  "parcel_s" : "8709/008"
+  "building_name" : "1650 Owens Street",
+  "parcel_s" : "8709/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "3462.3"
 }
 , {
   "_2014_energy_star_score" : "34",
-  "parcel_s" : "3536/001"
+  "building_name" : "Safeway 1507",
+  "parcel_s" : "3536/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1040.7"
 }
 , {
+  "building_name" : "2675 FOLSOM ST",
   "parcel_s" : "3639/006"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "3724/072"
+  "building_name" : "Intercontinental San Fransico",
+  "parcel_s" : "3724/072",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2235.5"
 }
 , {
   "_2014_energy_star_score" : "82",
-  "parcel_s" : "3794/010"
+  "building_name" : "The Townsend Building",
+  "parcel_s" : "3794/010",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "837.5"
 }
 , {
+  "building_name" : "Saks - San Francisco",
   "parcel_s" : "0295/007"
 }
 , {
   "_2014_energy_star_score" : "19",
-  "parcel_s" : "0316/013"
+  "building_name" : "Clift Hotel",
+  "parcel_s" : "0316/013",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2772.9"
 }
 , {
+  "building_name" : "378 10TH AVE",
   "parcel_s" : "1441/035"
 }
 , {
+  "building_name" : "1200 16th Street",
   "parcel_s" : "3939/001"
 }
 , {
   "_2014_energy_star_score" : "65",
-  "parcel_s" : "0307/001"
+  "building_name" : "Westin St. Francis Hotel",
+  "parcel_s" : "0307/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "6488.5"
 }
 , {
   "_2014_energy_star_score" : "38",
-  "parcel_s" : "0013/005"
+  "building_name" : "Savoy Corporation",
+  "parcel_s" : "0013/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "229.9"
 }
 , {
+  "building_name" : "1700 Egbert Ave",
   "parcel_s" : "5415/007"
 }
 , {
   "_2014_energy_star_score" : "26",
-  "parcel_s" : "0498/029"
+  "building_name" : "Travelodge By the Bay",
+  "parcel_s" : "0498/029",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "197.2"
 }
 , {
   "_2014_energy_star_score" : "99",
-  "parcel_s" : "0056/B002"
+  "building_name" : "LPF 150 Chestnut",
+  "parcel_s" : "0056/B002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "53.4"
 }
 , {
   "_2014_energy_star_score" : "93",
-  "parcel_s" : "0262/021"
+  "building_name" : "201 CALIFORNIA ST",
+  "parcel_s" : "0262/021",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "776.2"
 }
 , {
   "_2014_energy_star_score" : "100",
-  "parcel_s" : "3936/002"
+  "building_name" : "16th&Kansas Streets Building",
+  "parcel_s" : "3936/002",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "76.7"
 }
 , {
   "_2014_energy_star_score" : "98",
-  "parcel_s" : "3707/051"
+  "building_name" : "The Monadnock Building",
+  "parcel_s" : "3707/051",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "485.3"
 }
 , {
   "_2014_energy_star_score" : "87",
-  "parcel_s" : "0231/023"
+  "building_name" : "Two Embarcadero Center",
+  "parcel_s" : "0231/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "4186.7"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "0135/007"
+  "building_name" : "1000 SANSOME ST",
+  "parcel_s" : "0135/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "170.1"
 }
 , {
+  "building_name" : "2526 MISSION ST",
   "parcel_s" : "3616/005"
 }
 , {
+  "building_name" : "450 BRYANT ST",
   "parcel_s" : "3763/015B"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "0291/005"
+  "building_name" : "Terra Verde - Chancery Building, Chelsea Pacific",
+  "parcel_s" : "0291/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "335.4"
 }
 , {
-  "parcel_s" : "3501/006"
+  "building_name" : "1939 MARKET ST",
+  "parcel_s" : "3501/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "17.1"
 }
 , {
-  "parcel_s" : "5719/005"
+  "building_name" : "3743 MISSION ST",
+  "parcel_s" : "5719/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "29.7"
 }
 , {
+  "building_name" : "3630 BALBOA ST",
   "parcel_s" : "1580/003A"
 }
 , {
+  "building_name" : "445 Geary Street",
   "parcel_s" : "0316/018"
 }
 , {
+  "building_name" : "1345 OCEAN AVE",
   "parcel_s" : "6942/050"
 }
 , {
   "_2014_energy_star_score" : "76",
-  "parcel_s" : "3526/011"
+  "building_name" : "540 Ninth Street Assoc",
+  "parcel_s" : "3526/011",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "32.2"
 }
 , {
+  "building_name" : "827 STOCKTON ST",
   "parcel_s" : "0224/004"
 }
 , {
   "_2014_energy_star_score" : "76",
-  "parcel_s" : "3735/009"
+  "building_name" : "608 FOLSOM ST",
+  "parcel_s" : "3735/009",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "43.5"
 }
 , {
+  "building_name" : "4699 3RD ST",
   "parcel_s" : "5306/004"
 }
 , {
   "_2014_energy_star_score" : "86",
-  "parcel_s" : "3749/053"
+  "building_name" : "515 Folsom",
+  "parcel_s" : "3749/053",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "68.9"
 }
 , {
+  "building_name" : "10238-Potrero Hill",
   "parcel_s" : "3978/002"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "3740/033"
+  "building_name" : "SF - 211 Main St.",
+  "parcel_s" : "3740/033",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "2055"
 }
 , {
   "_2014_energy_star_score" : "1",
-  "parcel_s" : "3807/001"
+  "building_name" : "900 7TH ST",
+  "parcel_s" : "3807/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "213.4"
 }
 , {
+  "building_name" : "33 Powell Street Corporation",
   "parcel_s" : "0330/004"
 }
 , {
   "_2014_energy_star_score" : "46",
-  "parcel_s" : "0287/023"
+  "building_name" : "Ascendant Inc.",
+  "parcel_s" : "0287/023",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "192.8"
 }
 , {
-  "parcel_s" : "1191/038"
+  "building_name" : "Dignity-Shrader",
+  "parcel_s" : "1191/038",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "335"
 }
 , {
   "_2014_energy_star_score" : "92",
-  "parcel_s" : "3722/005"
+  "building_name" : "156 Second Street",
+  "parcel_s" : "3722/005",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "140.8"
 }
 , {
+  "building_name" : "302 ELLIS ST",
   "parcel_s" : "0324/026"
 }
 , {
   "_2014_energy_star_score" : "84",
-  "parcel_s" : "0310/019"
+  "building_name" : "177 Post Street Associates",
+  "parcel_s" : "0310/019",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "226"
 }
 , {
-  "parcel_s" : "0228/024"
+  "building_name" : "550 Montgomery",
+  "parcel_s" : "0228/024",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "387.1"
 }
 , {
-  "parcel_s" : "0834/027"
+  "building_name" : "San Francisco Conservatory of Music",
+  "parcel_s" : "0834/027",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "443.3"
 }
 , {
   "_2014_energy_star_score" : "96",
-  "parcel_s" : "3707/035"
+  "building_name" : "Sharon Building",
+  "parcel_s" : "3707/035",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "314.2"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "3707/001"
+  "building_name" : "CA SF NO 1 LP",
+  "parcel_s" : "3707/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "191"
 }
 , {
+  "building_name" : "100 POWELL ST",
   "parcel_s" : "0327/012"
 }
 , {
+  "building_name" : "123 LOOMIS ST",
   "parcel_s" : "5583/004"
 }
 , {
   "_2014_energy_star_score" : "85",
-  "parcel_s" : "5431A/012"
+  "building_name" : "Bayshore Business Center",
+  "parcel_s" : "5431A/012",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "310.2"
 }
 , {
   "_2014_energy_star_score" : "61",
-  "parcel_s" : "0738/007"
+  "building_name" : "Rodeway Inn",
+  "parcel_s" : "0738/007",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "55.3"
 }
 , {
   "_2014_energy_star_score" : "76",
-  "parcel_s" : "3750/079"
+  "building_name" : "633 Folsom Street",
+  "parcel_s" : "3750/079",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "966"
 }
 , {
   "_2014_energy_star_score" : "88",
-  "parcel_s" : "3958/006"
+  "building_name" : "Kleinen Square",
+  "parcel_s" : "3958/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "47.3"
 }
 , {
   "_2014_energy_star_score" : "25",
-  "parcel_s" : "3736/096"
+  "building_name" : "215 Second Street",
+  "parcel_s" : "3736/096",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "77.6"
 }
 , {
+  "building_name" : "54 7TH ST",
   "parcel_s" : "3702/016"
 }
 , {
+  "building_name" : "2664 MISSION ST",
   "parcel_s" : "3636/009"
 }
 , {
   "_2014_energy_star_score" : "67",
-  "parcel_s" : "0295/008"
+  "building_name" : "Sir Francis Drake Hotel-SV",
+  "parcel_s" : "0295/008",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "1405.3"
 }
 , {
+  "building_name" : "Lakeside Medical Building",
   "parcel_s" : "7226/023"
 }
 , {
-  "parcel_s" : "3937/001"
+  "building_name" : "1500 16th Street/250 DeHaro St",
+  "parcel_s" : "3937/001",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "124"
 }
 , {
   "_2014_energy_star_score" : "31",
-  "parcel_s" : "0173/006"
+  "building_name" : "Parkfront",
+  "parcel_s" : "0173/006",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "192.6"
 }
 , {
   "_2014_energy_star_score" : "61",
-  "parcel_s" : "0283/022"
+  "building_name" : "640 SUTTER ST",
+  "parcel_s" : "0283/022",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "485.5"
 }
 , {
+  "building_name" : "211 BEACH ST",
   "parcel_s" : "0020/001"
 }
 , {
+  "building_name" : "1595 Van Ness",
   "parcel_s" : "0647/001"
 }
 , {
-  "parcel_s" : "3735/041"
+  "building_name" : "Crown Point Press",
+  "parcel_s" : "3735/041",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "161.5"
 }
 , {
   "_2014_energy_star_score" : "68",
-  "parcel_s" : "1213/014"
+  "building_name" : "2211 HAYES ST",
+  "parcel_s" : "1213/014",
+  "_2014_total_ghg_emissions_metric_tons_co2e" : "290.8"
 }
  ]

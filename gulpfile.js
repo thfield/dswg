@@ -24,7 +24,11 @@ gulp.task('browserSync', function() {
 
 // Move vendor scripts to src dir
 gulp.task('vendor', function() {
-  var assets = ['node_modules/d3/d3.js'];
+  var assets = [
+    'node_modules/d3/d3.js',
+    'node_modules/topojson/build/topojson.js',
+    'node_modules/d3-queue/build/d3-queue.js'
+  ];
   return gulp.src(assets)
       .pipe(gulp.dest('src/vendor'))
 });
